@@ -1,0 +1,200 @@
+
+    <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+        <string name="app_name">Manual</string>
+        <string name="boot">Boot</string>
+        <string name="network">Wireless Transmission</string>
+        <string name="voice">Voice Remote Control</string>
+        <string name="basic">Basic Introduction</string>
+        <string name="playback">Volume Adjustment</string>
+        <string name="harddisk">Hard Disk</string>
+        <string name="harddisk_gsking_x">Hard Disk\n(GS-King X)</string>
+        <string name="personalization">Personalization</string>
+        <string name="commonProblems">Common problems</string>
+        <string name="shotcut">Quick Settings</string>
+
+        <string name="content_title">Beelink TV BOX Manual</string>
+
+    <string name="gt1mini_title" translatable="false">GT1 mini</string>
+    <string name="gt1mini_content" translatable="false">( GT1 mini-②, GT1 mini-A )</string>
+    <string name="gt1_title" translatable="false">GT1</string>
+    <string name="gt1_content" translatable="false">( GT1-A )</string>
+    <string name="gtking_title" translatable="false">GT-king</string>
+    <string name="gtking_content" translatable="false"></string>
+    <string name="gtking_pro_title" translatable="false">GT-king Pro</string>
+    <string name="gtking_pro_content" translatable="false"></string>
+    <string name="gsking_x_title" translatable="false">GS-king X</string>
+    <string name="gsking_x_content" translatable="false"></string>
+    <string name="bootup_title">Boot</string>
+    <string name="bootup_content">1. Power on and power on automatically after power off \n 2. With the power on, point the remote control at the TV box and press the power button on the remote control to turn it on.</string>
+    <string name="shutdown_title">Shutdown</string>
+    <string name="shutdown_content">1. When turning on, point the remote control at the TV box and press the power button on the remote control to turn off  \n 2. When powering on, use the flying mouse cursor to click the power button in the lower-left corner of the main interface to shut down.</string>
+
+
+    <string name="controller_pair_title">Remote control pairing</string>
+    <string name="controller_pair_content">At the same time, press the “back button” and “ok” on the remote control, the indicator light flashes, and after about 4 seconds, the remote control pairing is completed.</string>
+    <string name="controller_voice_title">Voice input method</string>
+    <string name="controller_voice_content">Press and hold the voice button, the indicator light is green. Do not release the voice button when the screen says “listening...”, just say the function you need.</string>
+    <string name="controller_mouse_title">How to open and close the flying mouse function</string>
+    <string name="controller_mouse_content">Press the mouse button to open/close the flying mouse function</string>
+
+
+    <string name="bluetooth_pair_title">Bluetooth pairing</string>
+    <string name="bluetooth_pair_content">After turning on the Bluetooth in the settings, turning on the Bluetooth switch, the box will automatically detect the nearby connected Bluetooth devices, and  mouse click it will automatically recognize the connection.</string>
+    <string name="wifi_connect_title">WiFi connection</string>
+    <string name="wifi_connect_content">In the network and Internet in the settings, turn on WLAN, click WLAN and select the WIFI you want to connect</string>
+    <string name="hotspot_title">Portable hotspot</string>
+    <string name="hotspot_content">When connected to the Ethernet, open the "Network and Internet" in the settings to enter the portable hotspot function, you can open the portable hotspot.</string>
+
+    <string name="sound_title">Sound</string>
+    <string name="sound_content">Use VOL + and VOL- on the remote control to adjust the volume, or enter Settings-Sound to adjust the media volume and notification volume \"</string>
+
+    <string name="disk_install_remove">1 Installation and removal of hard drives</string>
+    <string name="disk_step1_content">1.1 Use the screws to lock the hard disk bracket on both sides of the hard disk.</string>
+    <string name="disk_sideView">1.1.1 Side view:</string>
+    <string name="disk_topView">1.1.2 Top view:</string>
+    <string name="disk_step2_content">1.2 Push the installed hard disk interface into the device in the direction of the arrow along the track of the bracket, push it to the end, and then lock the back cover screw to complete the installation.</string>
+    <string name="disk_step3_content">1.3 Open the back cover, insert the tool between the two hard disks, hook one end of the hard disk, and pull it out to complete the removal.</string>
+
+    <string name="disk_format_init_title">2 Hard disk formatting/initialization setting steps</string>
+        <string name="disk_init_two_ways">Hard disk format / initialization two kinds of setting state: 1. Air mouse state setting 2. No Air mouse state.\nSetting Tips: Air mouse state setting is more convenient.</string>
+        <string name="disk_tv_init_hint">Remind:\n\n
+1. When connecting to a new hard disk for the first time, the hard disk information can not be read, display unformatted or uninitialize, need to format / initialize the hard disk settings in order to read and use properly.\n\n
+2. Some branded hard drives under Android can not be formatted / initialized. Please complete formatting / initialization on the Windows system then use it.\n\n
+3. If you need to partition the hard disk, please complete the partition on the window system and then use it. </string>
+
+    <string name="disk_airmouse_setting_title">2.1 Air mouse state setting step</string>
+    <string name="disk_airmouse_remarks">Note:***** USB drive, * represents the name of the hard disk</string>
+    <string name="disk_airmouse_step1_content">2.1.1 Press the Air mouse button on the remote control, pull out the top drop-down window,click "Click to format or initialize"</string>
+    <string name="disk_airmouse_step2_content">2.1.2 Click "PORTABLE STORAGE"</string>
+    <string name="disk_airmouse_step3_content">2.1.3 Pop Up"Format or Initialize this USB drive?"
+        Click"FORMAT OR INTIALIZE USB DRIVE"</string>
+    <string name="disk_airmouse_step4_content">2.1.4 Please do not remove the pop-up window of formatting / initializing USB storage progress.</string>
+    <string name="disk_airmouse_step5_content">2.1.5 Pop-up "Your USB drive is ready to use", hard disk format /Initialization complete. </string>
+
+    <string name="disk_no_airmouse_setting_title">2.2 No Air mouse state setting step</string>
+    <string name="disk_no_airmouse_step1_content">2.2.1 Enter "Settings"</string>
+    <string name="disk_no_airmouse_step2_content">2.2.2 Click "Storage"</string>
+    <string name="disk_no_airmouse_step3_content">2.2.3 Click "******USB DRIVE Unformatted or uninitialized"</string>
+    <string name="disk_no_airmouse_step4_content">2.2.4 After pop up"This ****** USB drive Unformatted or uninitialized",click "SET UP"</string>
+    <string name="disk_no_airmouse_step5_content">2.2.5 The following steps are same as Air mouse state setting step 2.1.2 ~ 2.1.5</string>
+    <string name="disk_no_airmouse_step5_list_content">2.1.2 Click "PORTABLE STORAGE"\n\n2.1.3 Pop Up"Format or Initialize this USB drive?"
+        Click"FORMAT OR INTIALIZE USB DRIVE"\n\n2.1.4 Please do not remove the pop-up window of formatting / initializing USB storage progress.\n\n2.1.5 Pop-up "Your USB drive is ready to use", hard disk format /Initialization complete.\n</string>
+    <string name="disk_no_airmouse_step6_content">Note:The hard disk that has been formatted / initialized will display the usage status and capacity of the hard disk.</string>
+
+    <string name="disk_safe_quit_title">3 Hard disk safe exit steps:</string>
+    <string name="disk_safe_quit_content">1.Before unplugging the hard disk, select "Settings" >, "Device Preferences" >, "Storage " >, "storage device" > "Eject", the storage device shows safety pop up, and then unplug the hard disk.</string>
+    <string name="disk_safe_quit_content_warning">Tips: NO Hot Swap!</string>
+
+    <string name="audio_output">Audio Output</string>
+    <string name="audio_confirm">OK</string>
+    <string name="audio_confirm_rightarrow">\></string>
+    <string name="audio_hdmi">1.HDMI</string>
+    <string name="audio_spdif">2.SPDIF</string>
+    <string name="audio_av">3.AV</string>
+    <string name="audio_hifi_sound">4.HIFI SOUND</string>
+    <string name="audio_hint">Corresponding audio interface</string>
+    <string name="audio_arrow">∨</string>
+    <string name="audio_content_title">Audio settings and interface audio output</string>
+
+    <string name="audio_one_content_hdmi">HDMI:HDMI port Audio output</string>
+    <string name="audio_two_content_spdif">SPDIF:SPDIF port Audio output</string>
+    <string name="audio_three_content_av">AV:AV port Audio output</string>
+    <string name="audio_four_content_hifi_sound">HiFi SOUND:Headphone jack、RCA output port、Balance output port Audio output</string>
+
+    <string name="resolution_title">Resolution</string>
+    <string name="resolution_content">In the settings, find Droid Settings to open and enter the display menu. After finding the screen resolution, you only need to turn on the automatic switching of the optimal screen resolution.</string>
+    <string name="wallpaper_title">Wallpaper</string>
+    <string name="wallpaper_content">1. On the main interface, press the menu button on the remote control to select a preset theme background picture. \n  2. Settings-Display-Wallpaper, choose the wallpaper you want in the photo</string>
+    <string name="favorate_title">Favorite apps</string>
+    <string name="favorate_content">You can add your favorite apps to your desktop by clicking the "+/-" symbol in the blank page at the top right of the screen.</string>
+    <string name="sleep_title">Sleep</string>
+    <string name="sleep_content">Set your own sleep time from “Settings” - “Display” - “Sleep”. After the setting is successful, the box will enter the sleep mode within the set time. If you need to turn off the sleep mode, you need to find the version number from "Settings" - "System" - "About the device", then left click this option to open the developer option 5 times or more. The developer option can be clicked once to return to the "System" interface, and the "Developer Options" can be found in the system interface. After the developer option is turned on, the screen sleep mode can be turned off directly from the "No Lock Screen".</string>
+    <string name="font_title">Font size</string>
+    <string name="font_content">The font size can be adjusted by dragging to a small dot on the progress bar after "Settings" - "Display" - "Font Size".</string>
+    <string name="language_title">Language</string>
+    <string name="language_content">Click on Settings, find "Device Preferences" in the settings and click on this option to find the "Language" option. Languages ​​can be changed in the language options.</string>
+    <string name="uninstall_title">Uninstall software</string>
+    <string name="uninstall_content">When you need to uninstall a software, right-click the function and the uninstall option will appear after about 2 seconds.</string>
+
+
+    <string name="help_language_title">Language modification failure</string>
+    <string name="help_language_content">After switching on, the language of the system becomes Korean, and the language selection is invalid. Please turn off the language switching function in the HDMI CEC function, and then switch the language again.</string>
+    <string name="help_powerkey_title">How to modify the power button customization</string>
+    <string name="help_powerkey_content">Settings-Droid settings, open the power button definition, select the function you want to set the power button</string>
+    <string name="help_lighthome_title">Lighthome failure</string>
+    <string name="help_lighthome_content">Lighthome failure.</string>
+    <string name="help_datetime_title">Box time is not accurate</string>
+    <string name="help_datetime_content">Settings -> Device Preferences -> Time and Date -> Automatically determine the date and time -> Use the time provided by the network.</string>
+    <string name="help_ota_title">How to make an OTA update</string>
+    <string name="help_ota_content">Settings-System-System Update, click Detect Update to see if there is a new OTA push upgrade or click the upper right corner to select the local upgrade</string>
+    <string name="help_firemare_title">How to install new firmware </string>
+    <string name="help_firemare_usb_content">USB cable brush tutorial: Need to prepare the hardware: computer, USB cable .</string>
+    <string name="help_firemare_usb_1">1.Download the burn tool, follow the wizard prompts to install and complete, the icon should be appears on your desktop</string>
+    <string name="help_firemare_usb_2">2.Download the firmware and save it to your desktop for easy access</string>
+    <string name="help_firemare_usb_3">3.Right click "Run as administrator"</string>
+    <string name="help_firemare_usb_4">4.Enter the brush tool interface.</string>
+    <string name="help_firemare_usb_5">5.Click File in the upper left corner and select Import image .</string>
+    <string name="help_firemare_usb_6">6.Load the firmware, click Import image to enter, find the downloaded USB firmware location, select and open </string>
+    <string name="help_firemare_usb_7">7.After the image checking disappears, the brush package is loaded completely, then click Start.   </string>
+    <string name="help_firemare_usb_8">8.Plug the Type A USB male to male ends into the USB port of the computer, plug the power adapter into the socket, and insert the power adapter and the male to male USB port into the corresponding port of the GT-King at the same time (Note: the GT-King port must be inserted at the same time, otherwise Unable to read firmware properly).</string>
+    <string name="help_firemare_usb_9">9.Waiting for the loading interface to appear.</string>
+    <string name="help_firemare_usb_10">10.After loading, unplug the USB cable and power cable from the box, click stop, close the tool, and finish the brush..</string>
+    <string name="help_firemare_sd_content">SD card brush tutorial   Need to prepare the brush hardware: SD card.</string>
+    <string name="help_firemare_sd_1">1.Copy the already loaded SD card flasher firmware into the SD card root directory (the SD card format must be FAT32). </string>
+    <string name="help_firemare_sd_2">2.Insert the SD card into the SD card slot, plug in the HDMI cable, connect the monitor, plug in the power and turn it on.</string>
+    <string name="help_firemare_sd_3">3.Go to the home page, click  UPDATE icon  enter the application page</string>
+    <string name="help_firemare_sd_4">4.Click "UPDATE BACKUP" and open it.</string>
+    <string name="help_firemare_sd_5">Check "Wipe Data"" and "Wipe Media" (if you need to wape data), then click "Select" button.</string>
+    <string name="help_firemare_sd_6">6.Select the zip file that you download from PC.</string>
+    <string name="help_firemare_sd_7">7.Click the "Update" button to start the upgrade.</string>
+    <string name="help_firemare_sd_8">8.Wait for the upgrade to complete.</string>
+
+    <string name="controller_b1_info1">This is a wireless flying mouse with a built-in 6-axis gyroscope sensor and high-fidelity voice input.</string>
+    <string name="controller_b1_info2">The plug-and-play miniature receiver,Suitable for computer, projector, TV set-top box, HTPC.</string>
+    <string name="controller_b1_info3">Holding air mouse and rotating your wrist IS converted into a movement of a cursor across the screen and It allows you to control your computer,projector and other entertainment equipment from a distance.</string>
+    <string name="controller_b2_info1">Ergonomics of air mouse will replace stationary computer mouse and infrared button remote control giving you convenience to manage your computer and television set from a position which is most comfortable for you.</string>
+    <string name="controller_b2_info2">How to Use：</string>
+    <string name="controller_b2_info3">The control device needs a Bluetooth or infrared receiver. When the Bluetooth is not connected, the remote control sends related key values through infrared, and after Bluetooth is connected, the key values are sent through Bluetooth. The flying mouse and voice functions cannot be used when Bluetooth is not connected.</string>
+    <string name="controller_b2_info4">1.Bluetooth / infrared voice flying mouse remote control pairing method</string>
+    <string name="controller_b2_info5">For the first boot, press and hold the combination key (Page UP key and Volume + key) on the remote control for 5 seconds to enter in pairing mode. After entering the pairing mode, the light on the remote control will flash quickly, and the remote control can be searched on the operated device with the name (Beelink_AirW), wil be ready to use after pairing.Move the Fly Mouse, the cursor will move on the screen,Means pairing was successful.</string>
+
+    <string name="controller_b3_info1">2. 2.4G wireless voice flying mouse remote control pairing method</string>
+    <string name="controller_b3_info2">Disconnect the USB receiving head of the operated device, plug in the USB receiving head, and wave the mouse. The cursor will move on the screen to indicate that the pairing is successful. If the pairing is unsuccessful, press the "back button" and "OK" keys on the remote control at the same time. After 4 seconds, the indicator flashes. When the red light stops flashing, the pairing is successful and you can start using it.</string>
+    <string name="controller_b3_info3">Air Mouse has 3 levels of cursor speed.</string>
+    <string name="controller_b3_info4">1. Bluetooth / infrared voice flying mouse remote control adjustment method</string>
+    <string name="controller_b3_info5">Mouse speed changed from slow to fast: Press "OK" and "Page UP" simultaneously for three seconds, the cursor speed becomes faster. </string>
+    <string name="controller_b3_info6">Mouse speed changed from fast to slow: Press "OK" and "Page DOWN" simultaneously for three seconds, the cursor speed becomes slower.</string>
+
+
+    <string name="controller_b4_info1">2. 2.4G wireless voice flying mouse remote control adjustment method</string>
+    <string name="controller_b4_info2">Mouse speed from slow to fast: Press the "OK" and "Volume +" keys at the same time, the cursor speed will become faster.</string>
+    <string name="controller_b4_info3">Mouse speed changed from fast to slow: Press the "OK" and "Volume-" keys at the same time, the cursor speed becomes slower.</string>
+    <string name="controller_b4_info4">Function Keys :</string>
+    <string name="controller_b4_info5"> Home: Go back to the home;</string>
+    <string name="controller_b4_info6"> Return: Go back to previous screen;</string>
+    <string name="controller_b4_info7"> OK: Confirm action or insert cursor;</string>
+    <string name="controller_b4_info8"> Cursor Locking: Press to lock the air mouse, press again to unLock</string>
+
+    <string name="controller_b5_info1">Voice Switch:</string>
+    <string name="controller_b5_info2">Press and hold "Voice Switch" to turn on voice channel.Release the key to turn off voice channel.</string>
+    <string name="controller_b5_info3">Low battery reminder: </string>
+    <string name="controller_b5_info4">When the product\'s AAA battery is low, LED light flashes slowly (after pressing a button during release and releasing it, if the battery level is detected to be low, the LED light will flash once a second and five times to indicate that the battery level is too low and the battery needs to be replaced) The battery needs to be replaced.</string>
+    <string name="controller_b5_info5">Sensor calibration:</string>
+    <string name="controller_b5_info6">1.Bluetooth / Infrared Voice Flying Mouse Remote Control Calibration Method</string>
+    <string name="controller_b5_info7">For the first use of the Fly Mouse function, you need to perform calibration: press the Fly Mouse key and the Menu key for more than 3s at the same time, and the indicator light enters the fast flashing state. At this time, enter the Fly mouse calibration mode, place the remote control on the desktop, wait for the Fly mouse to calibrate. The indicator no longer blinks and calibration is complete.</string>
+
+    <string name="controller_b6_info1">2. 2.4G wireless voice flying mouse remote control calibration method</string>
+    <string name="controller_b6_info2">The changes of voltage and temperature may make the cursor drifts,In this case, put the mouse flat on the desk and remain still. You can complete calibration by pressing any key to wake it up when it is in hibernation mode.</string>
+    <string name="controller_b6_info3">Product specifications：</string>
+    <string name="controller_b6_info4">Transmission method: Bluetooth and infrared \/ infrared and 2.4G wireless</string>
+    <string name="controller_b6_info5">Sensors: 6 axis Gyroscope</string>
+    <string name="controller_b6_info6">Number of keys: 17</string>
+    <string name="controller_b6_info7">Range:>10m</string>
+    <string name="controller_b6_info8">Battery Type: AAA*2</string>
+    <string name="controller_b6_info9">Material: ABS Plastic and silicone</string>
+    <string name="controller_b6_info10">Size: 143*45*29MM：143*45*29MM</string>
+    <string name="controller_b6_info11">Weight：50g</string>
+    <string name="controller_b6_info12">Note:</string>
+    <string name="controller_b6_info13">1.Non-professional are prohibited to use the test mode of the product.</string>
+    <string name="controller_b6_info14">2. Under a normal use, if the indicator is always on or other abnormal conditions, you can restore it by reinstalling the batterys.</string>
+</resources>

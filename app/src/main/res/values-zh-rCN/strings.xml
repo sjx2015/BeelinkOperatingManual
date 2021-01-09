@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">使用手册</string>
+	<string name="boot">开关机</string>
+	<string name="network">无线传输</string>
+	<string name="voice">语音遥控器</string>
+	<string name="basic">基本介绍</string>
+	<string name="playback">音量调节</string>
+	<string name="harddisk">硬盘</string>
+	<string name="harddisk_gsking_x">硬盘\n(GS-King X)</string>
+	<string name="personalization">个性化</string>
+	<string name="commonProblems">常见问题</string>
+	<string name="shotcut">快捷设置</string>
+	<string name="content_title">TV BOX手册</string>
+	<string name="gtking_content"></string>
+	<string name="gtking_pro_content"></string>
+	<string name="bootup_title">开机</string>
+	<string name="bootup_content">1. 断电后重新上电自动开机 \n2.上电情况下，将遥控器对准电视盒子，按遥控器电源按钮开机</string>
+	<string name="shutdown_title">关掉</string>
+	<string name="shutdown_content">1.开机时，将遥控器对准电视盒子，按遥控器电源按钮关机 \n 2.开机时，使用飞鼠光标点击主界面左下角电源按钮关机</string>
+	<string name="controller_pair_title">遥控器配对</string>
+	<string name="controller_pair_content">同时按遥控器上的“返回按钮”和“OK”键，指示灯闪烁，约4秒后，遥控器配对完成。</string>
+	<string name="controller_voice_title">语音输入法</string>
+	<string name="controller_voice_content">按住语音键，指示灯为绿色。</string>
+	<string name="controller_mouse_title">如何打开和关闭飞鼠功能</string>
+	<string name="controller_mouse_content">按下鼠标键打开/关闭飞鼠功能</string>
+	<string name="bluetooth_pair_title">蓝牙配对</string>
+	<string name="bluetooth_pair_content">在设置中开启蓝牙后，盒子会自动检测附近的蓝牙设备，单击鼠标会自动识别连接..</string>
+	<string name="wifi_connect_title">WiFi连接</string>
+	<string name="wifi_connect_content">在设置里的网络和互联网中，开启WLAN，点击WLAN选择你所要连接的WIFI</string>
+	<string name="hotspot_title">便携式热点</string>
+	<string name="hotspot_content">当连接到以太网，在设置中打开“网络和互联网”，进入便携式热点功能，可以打开便携式热点。</string>
+	<string name="sound_title">声音</string>
+	<string name="sound_content">使用遥控器上的VOL+和VOL-调节音量，或者进入设置-声音，调节媒体音量和通知音量</string>
+
+	<string name="disk_install_remove">1 硬盘的安装与拆卸</string>
+	<string name="disk_step1_content">1.1 用螺丝将硬盘支架锁紧在硬盘两侧。</string>
+	<string name="disk_sideView">1.1.1 侧视图：</string>
+	<string name="disk_topView">1.2.2 俯视图</string>
+	<string name="disk_step2_content">1.2 将安装好的硬盘接口朝内沿着支架轨道按箭头方向推入机器中，推到底，然后锁上后盖螺丝，安装完毕。</string>
+	<string name="disk_step3_content">1.3 打开后盖，把工具从两硬盘中间插入，勾住硬盘一端拖出,拆卸完成。</string>
+
+	<string name="disk_format_init_title">2 硬盘格式化/初始化设置步骤</string>
+	<string name="disk_init_two_ways">硬盘格式化/初始化两种设置状态：1、飞鼠状态设置 2、无飞鼠状态设置。\n温馨提示：飞鼠状态设置更便捷。</string>
+	<string name="disk_tv_init_hint">提   示：\n\n
+1、当第一次连接新硬盘时，无法读取硬盘信息，显示未格式化或未初始化，需对硬盘进行格式化/初始化设置才能正常读取与使用。\n\n
+2、安卓系统下部分品牌硬盘无法进行格式化/初始化，请在Windows系统完成格式化/初始化再使用。\n\n
+3、如需对硬盘进行分区，请在Windows系统完成分区再使用。</string>
+
+    <string name="disk_airmouse_setting_title">2.1 飞鼠状态设置步骤</string>
+    <string name="disk_airmouse_remarks">注： *****USB存储器，*号代表硬盘名称。</string>
+    <string name="disk_airmouse_step1_content">2.1.1 按下遥控器上的飞鼠键，拉出顶部的下拉窗口，点击&#060;点按即可格式化或初始化&#062;。</string>
+    <string name="disk_airmouse_step2_content">2.1.2 &#060;点击便携式存储设备&#062;。</string>
+	<string name="disk_airmouse_step3_content">2.1.3 弹出&#060;要将此USB存储器格式化/初始化吗？&#062;，点击&#060;将USB存储器格式化/初始化&#062;。</string>
+	<string name="disk_airmouse_step4_content">2.1.4 弹出正在格式化/初始化USB存储器进度窗口，此时请勿将其移除。</string>
+	<string name="disk_airmouse_step5_content">2.1.5 弹出&#060;您的USB存储器可以使用了&#062;，硬盘格式化/初始化完成。</string>
+
+    <string name="disk_no_airmouse_setting_title">2.2 无飞鼠状态设置步骤</string>
+    <string name="disk_no_airmouse_step1_content">2.2.1 进入&#060;设置&#062;。</string>
+    <string name="disk_no_airmouse_step2_content">2.2.2 点击&#060;存储&#062;。</string>
+    <string name="disk_no_airmouse_step3_content">2.2.3 点击&#060;******USB存储器 未格式化或未初始化&#062;。</string>
+    <string name="disk_no_airmouse_step4_content">2.2.4 弹出&#060;此******USB存储器未格式化或未初始化&#062;，点击&#060;设置&#062;。</string>
+    <string name="disk_no_airmouse_step5_content">2.2.5 以下步骤同飞鼠状态设置步骤2.1.2~2.1.5。</string>
+    <string name="disk_no_airmouse_step5_list_content">2.1.2 &#060;点击便携式存储设备&#062;。\n\n2.1.3 弹出&#060;要将此USB存储器格式化/初始化吗？&#062;，点击&#060;将USB存储器格式化/初始化&#062;。\n\n2.1.4 弹出正在格式化/初始化USB存储器进度窗口，此时请勿将其移除。\n\n2.1.5 弹出&#060;您的USB存储器可以使用了&#062;，硬盘格式化/初始化完成。\n</string>
+    <string name="disk_no_airmouse_step6_content">提示：已完成格式化/初始化的硬盘显示：硬盘的使用状态及容量。</string>
+
+	<string name="disk_safe_quit_title">3 硬盘安全退出步骤：</string>
+	<string name="disk_safe_quit_content">1、拔出硬盘前，先选择“设置”>“设备偏好设置”>“存储空间”>“存储设备”>“弹出”，存储设备显示安全弹出，然后拔出硬盘。</string>
+	<string name="disk_safe_quit_content_warning">提示： 请勿热插拔！</string>
+
+
+    <string name="audio_output">音频输出</string>
+    <string name="audio_confirm">OK</string>
+    <string name="audio_confirm_rightarrow">\></string>
+
+	<string name="audio_hint">对应的音频接口</string>
+	<string name="audio_arrow">∨</string>
+	<string name="audio_content_title">音频设置与接口声音输出 </string>
+	<string name="audio_one_content_hdmi">HDMI:HDMI接口声音输出 </string>
+	<string name="audio_two_content_spdif">SPDIF:SPDIF接口声音输出 </string>
+	<string name="audio_three_content_av">AV:AV接口声音输出 </string>
+	<string name="audio_four_content_hifi_sound">HiFiSOUND:耳机孔、RCA接口、BAL接口声音输出 </string>
+
+
+	<string name="resolution_title">"                                在设置中找到“Droid Settings”打开后进入显示菜单，"</string>
+    <string name="wallpaper_title">墙纸</string>
+	<string name="wallpaper_content">1.主界面按遥控器上菜单按钮，可以选择预设的主题背景图片. \n 2.设置-显示-壁纸，在相册中选择你想要的壁纸</string>
+	<string name="favorate_title">喜爱的应用程序</string>
+	<string name="favorate_content">您可以通过点击屏幕右上角的空白页的“+/-”符号添加自己喜欢的应用程序到您的桌面。</string>
+	<string name="sleep_title">休眠</string>
+	<string name="sleep_content">从“设置”-“显示”-“休眠” 设置休眠时间.设置成功后，系统将在设置的时间内进入睡眠模式。 如果需要关闭睡眠模式，则需要从“设置”-“系统”-“关于设备”中找到版本号，然后左键单击此选项以打开开发者选项5次或更多次。 可以单击一次开发人员选项以返回到“系统”界面，并且可以在系统界面中找到“开发人员选项”。 打开开发人员选项后，可以直接从“无锁定屏幕”关闭屏幕睡眠模式.</string>
+	<string name="font_title">字体大小</string>
+	<string name="font_content">可以通过“设置”-“显示 - “字体大小”，拖动进度条上一个小点调整。</string>
+	<string name="language_title">语言</string>
+	<string name="language_content">点击设置，在设置“设备偏好设置”，点击该选项后找到“语言”选项。</string>
+	<string name="uninstall_title">卸载软件</string>
+	<string name="uninstall_content">当你需要卸载软件，使用遥控器方向键选中该软件，长按“OK”键，选择Unintsall</string>
+	<string name="help_language_title">语言修改失败</string>
+	<string name="help_language_content">出现开机后系统语言变成韩语，选择语言失效的情况，请将HDMI CEC功能中的语言切换功能关闭，然后再次切换语言</string>
+	<string name="help_powerkey_title">如何修改电源按钮</string>
+	<string name="help_powerkey_content">设置-Droid settings，打开电源键定义，选择你想将电源键设置的功能</string>
+	<string name="help_lighthome_title">Lighthome失败</string>
+	<string name="help_lighthome_content">Lighthome失败。</string>
+	<string name="help_datetime_title">盒子时间不准确</string>
+	<string name="help_datetime_content">设置 - >设备偏好设置 - >时间和日期 - >自动确定日期和时间 - >使用网络提供的时间。</string>
+	<string name="help_ota_title">如何使OTA更新</string>
+	<string name="help_ota_content">设置-系统-系统更新，点击检测更新查看是否有新的OTA推送升级，或者点击右上角的点选择本地升级</string>
+	<string name="help_firemare_title">如何安装新固件</string>
+	<string name="help_firemare_usb_content">USB数据线刷机教程：需要准备的硬件：电脑，USB连接线。</string>
+	<string name="help_firemare_usb_1">1.下载刻录工具，按照向导的提示安装和完整，图标应出现在桌面上</string>
+	<string name="help_firemare_usb_2">2.下载固件，并将其保存到桌面，方便地访问</string>
+	<string name="help_firemare_usb_3">3.右键单击“以管理员身份运行”</string>
+	<string name="help_firemare_usb_4">4.打开刷机界面。</string>
+	<string name="help_firemare_usb_5">5.点击左上角的“文件”，然后选择导入固件。</string>
+	<string name="help_firemare_usb_6">6.找到下载的USB固件的位置，选择并打开</string>
+	<string name="help_firemare_usb_7">7.进度条消失，然后单击开始。</string>
+	<string name="help_firemare_usb_8">8.将刷机线的一段连接电脑，另一端连接盒子的同时给盒子上电</string>
+	<string name="help_firemare_usb_9">9.此时可以看到电脑端检测到盒子并开始刷机</string>
+	<string name="help_firemare_usb_10">进度条走完后，拔掉刷机线和电源线，点击停止，关闭该工具，并完成刷..</string>
+	<string name="help_firemare_sd_content">SD卡刷机教程需要准备的硬件：SD卡。</string>
+	<string name="help_firemare_sd_1">1.复制已下载的固件到SD卡根目录下（SD卡格式必须为FAT32）。</string>
+	<string name="help_firemare_sd_2">2.将SD卡插入盒子端的SD卡插槽，插头在HDMI线缆，连接显示器，插上电源开机。</string>
+	<string name="help_firemare_sd_3">3.在主界面，点击“所有应用”图标</string>
+	<string name="help_firemare_sd_4">4.点击“升级”</string>
+	<string name="help_firemare_sd_5">选中“清除数据””和‘擦媒体’（如果你需要清楚数据），然后单击‘选择’按钮。</string>
+	<string name="help_firemare_sd_6">6.选择您从PC下载的zip文件。</string>
+	<string name="help_firemare_sd_7">7.单击“更新”按钮，开始升级。</string>
+	<string name="help_firemare_sd_8">8.等待升级完成。</string>
+    <string name="resolution_content">在设置中找到“Droid Settings”打开后进入显示菜单， 找到屏幕分辨率后，只需要开启自动切换最佳屏幕分辨率即可。</string>
+
+	<string name="controller_b1_info1">这是一款内置6轴陀螺仪传感器及高保真语音输入的无线飞鼠，可以在Android平台上实现传统的遥控器+鼠标功能。</string>
+	<string name="controller_b1_info2">即插即用的微型接收器，适用于电脑、投影仪、电视机顶盒、HTPC。</string>
+	<string name="controller_b1_info3">它可以将你从电脑，电视，投影和其他娱乐设备完全解放，只需要晃动你的手腕，你的手腕方向将被即时的转换成在屏幕上的光标.</string>
+	<string name="controller_b2_info1">手感舒适、方便，完全避免了传统鼠标需要以静止的桌面为参照操作或红外遥控器按键操作的弊端，让你躺着玩电脑、电视不累，轻松休闲，完全“控制”你的电脑、电视。</string>
+	<string name="controller_b2_info2">使用方法：</string>
+	<string name="controller_b2_info3">被操作设备上需要有蓝牙和红外接收器，在没有连接蓝牙的时候遥控器通过红外发送相关按键值，连接蓝牙后通过蓝牙发送按键值。</string>
+	<string name="controller_b2_info4">1. 蓝牙/红外语音飞鼠遥控器配对方法</string>
+	<string name="controller_b2_info5">首次使用，同时按住遥控器上的组合键（page+键和音量+键）5秒进入配对模式，进入配对模式后遥控器上的灯会快速闪烁，此时可以在被操作设备上搜索到遥控器名称（Beelink_AirW)，配对连接后即可使用。挥动鼠标，光标会在屏幕上移动意味着配对成功。</string>
+
+	<string name="controller_b3_info1">2. 2.4G无线语音飞鼠遥控器配对方法</string>
+	<string name="controller_b3_info2">在被操作设备的usb断开插上usb接收头，挥动鼠标，光标会在屏幕上移动意味着配对成功，如果配对不成功，同时按下遥控器上的“后退按钮”和“确定”键大约4秒后，指示灯闪烁。红灯停止闪烁即配对成功，可开始使用。</string>
+	<string name="controller_b3_info3">空鼠的鼠标速度支持3级调节</string>
+	<string name="controller_b3_info4">1. 蓝牙/红外语音飞鼠遥控器调节方法</string>
+	<string name="controller_b3_info5">调节速度从慢到快：同时按下“OK”和“page+”键三秒，光标在屏幕上的移动速度变快</string>
+	<string name="controller_b3_info6">调节速度从快到慢：同时按下“OK”和“page-”键三秒，光标在屏幕上的移动速度变慢</string>
+
+	<string name="controller_b4_info1">2. 2.4G无线语音飞鼠遥控器调节方法</string>
+	<string name="controller_b4_info2">鼠标速度从慢到快：同时按下“OK”和“音量+”键，光标速度变快。</string>
+	<string name="controller_b4_info3">鼠标速度从快变慢：同时按下“OK”和“音量-”键，光标速度变慢。</string>
+	<string name="controller_b4_info4">按键功能：</string>
+	<string name="controller_b4_info5">主页：回到主界面</string>
+	<string name="controller_b4_info6">返回：返回到上一级屏幕</string>
+	<string name="controller_b4_info7">OK:确认动作或者插入光标</string>
+	<string name="controller_b4_info8">鼠标：打开或者关闭鼠标功能</string>
+
+	<string name="controller_b5_info1">语音功能</string>
+	<string name="controller_b5_info2">按住话筒键不放，打开语音功能开始说话；抬起话筒按键，关闭语言通道结束语音。</string>
+	<string name="controller_b5_info3">低电量提示：</string>
+	<string name="controller_b5_info4">当产品的AAA电池电量低时，LED灯慢闪提醒（在使用过程中某个按键按下再松开，如果检测到电池电量低，则led灯一秒闪一次，闪五次结束），此时需更换新电池</string>
+	<string name="controller_b5_info5">传感器校准：</string>
+	<string name="controller_b5_info6">1.蓝牙/红外语音飞鼠遥控器校准方法</string>
+	<string name="controller_b5_info7">初次使用飞鼠功能，需要进行校准：同时按下飞鼠开关键和menu按键3秒以上，指示灯进入快闪状态，此时进入飞鼠校准模式，把遥控器静止平放在桌面上，等待飞鼠指示灯不再闪烁，完成校准</string>
+
+	<string name="controller_b6_info1">2. 2.4G无线语音飞鼠遥控器校准方法</string>
+	<string name="controller_b6_info2">使用过程中由于电压和温度的变化引起光标漂移问题，请将遥控器平放桌面上保持静止，待从休眠后再次唤醒即可使用。</string>
+	<string name="controller_b6_info3">产品规格：</string>
+	<string name="controller_b6_info4">传输方式：蓝牙和红外、2.4G和红外</string>
+	<string name="controller_b6_info5">传感器：6轴陀螺仪</string>
+	<string name="controller_b6_info6">按键数量：17</string>
+	<string name="controller_b6_info7">传输距离：10M</string>
+	<string name="controller_b6_info8">电池类型：AAA*2</string>
+	<string name="controller_b6_info9">产品材料：ABS塑料+硅胶按键</string>
+	<string name="controller_b6_info10">产品尺寸：143*45*29MM</string>
+	<string name="controller_b6_info11">产品重量：50g</string>
+	<string name="controller_b6_info12">注意：</string>
+	<string name="controller_b6_info13">1. 本产品没有测试模式，非专业维修人员禁止拆开！</string>
+	<string name="controller_b6_info14">2. 在正常使用情况下，如遇到指示灯常亮或者其他异常情况，重新安装电池即可恢复</string>
+</resources>

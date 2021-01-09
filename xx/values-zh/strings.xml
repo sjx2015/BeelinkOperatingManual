@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beelink Operating Manual</string>
+    <string name="boot">开关机</string>
+    <string name="network">无线传输</string>
+    <string name="voice">语音遥控器</string>
+    <string name="basic">常见问题</string>
+    <string name="playback">播放设置</string>
+    <string name="personalization">个性化管理</string>
+    <string name="commonProblems">常见问题</string>
+    <string name="shotcut">快捷功能</string>
+
+
+    <string name="content_tile">Beelink OTT 使用说明</string>
+</resources>

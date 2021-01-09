@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:padding="@dimen/fragment_content_padding" >
+
+    <include layout="@layout/content_title"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:descendantFocusability="blocksDescendants">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/button_background"
+            android:gravity="center_horizontal"
+            android:focusable="true"
+            android:padding="@dimen/fragment_content_padding">
+
+            <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/gt1mini"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fragment_card_margin"
+                app:cardCornerRadius="@dimen/fragment_card_radius"
+                app:cardElevation="@dimen/fragment_card_elevation">
+
+                <LinearLayout
+                    android:layout_width="380dp"
+                    android:layout_height="390dp"
+                    android:layout_marginStart="40px"
+                    android:layout_marginTop="40px"
+                    android:layout_marginEnd="40px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gt1mini_title"
+                            android:textColor="@android:color/holo_green_dark"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gt1mini_content"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="380dp"
+                        android:layout_height="340dp"
+                        android:layout_marginTop="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/basic_gt1mini" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/gt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fragment_card_margin"
+                android:layout_toRightOf="@id/gt1mini"
+                app:cardCornerRadius="@dimen/fragment_card_radius"
+                app:cardElevation="@dimen/fragment_card_elevation">
+
+
+                <LinearLayout
+                    android:layout_width="380dp"
+                    android:layout_height="390dp"
+                    android:layout_marginStart="40px"
+                    android:layout_marginTop="40px"
+                    android:layout_marginEnd="40px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gt1_title"
+                            android:textColor="@android:color/holo_green_dark"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gt1_content"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="380dp"
+                        android:layout_height="340dp"
+                        android:layout_marginTop="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/basic_gt1" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/gtking"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/gt1mini"
+                android:layout_margin="@dimen/fragment_card_margin"
+                app:cardCornerRadius="@dimen/fragment_card_radius"
+                app:cardElevation="@dimen/fragment_card_elevation">
+
+
+                <LinearLayout
+                    android:layout_width="380dp"
+                    android:layout_height="390dp"
+                    android:layout_marginStart="40px"
+                    android:layout_marginTop="40px"
+                    android:layout_marginEnd="40px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gtking_title"
+                            android:textColor="@android:color/holo_green_dark"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gtking_content"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="380dp"
+                        android:layout_height="340dp"
+                        android:layout_marginTop="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/basic_gtking" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/gt1"
+                android:layout_margin="@dimen/fragment_card_margin"
+                android:layout_toRightOf="@id/gtking"
+                app:cardCornerRadius="@dimen/fragment_card_radius"
+                app:cardElevation="@dimen/fragment_card_elevation">
+
+
+                <LinearLayout
+                    android:layout_width="380dp"
+                    android:layout_height="390dp"
+                    android:layout_marginStart="40px"
+                    android:layout_marginTop="40px"
+                    android:layout_marginEnd="40px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gtking_pro_title"
+                            android:textColor="@android:color/holo_green_dark"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gtking_pro_content"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="380dp"
+                        android:layout_height="340dp"
+                        android:layout_marginTop="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/basic_gtking_pro" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="888dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/gtking"
+                android:layout_margin="@dimen/fragment_card_margin"
+                app:cardCornerRadius="@dimen/fragment_card_radius"
+                app:cardElevation="@dimen/fragment_card_elevation">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="40px"
+                    android:layout_marginTop="40px"
+                    android:layout_marginEnd="40px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gsking_x_title"
+                            android:textColor="@android:color/holo_green_dark"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="40px"
+                            android:text="@string/gsking_x_content"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="15dp"
+                        android:layout_marginRight="10dp"
+                        android:scaleType="fitXY"
+                        android:src="@mipmap/basic_gsking_x" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </RelativeLayout>
+
+    </ScrollView>
+</LinearLayout>

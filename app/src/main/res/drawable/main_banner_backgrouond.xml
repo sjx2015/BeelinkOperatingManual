@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:width="1920dp" android:height="80dp">
+                <shape android:shape="rectangle">
+                        <gradient android:type="linear" android:useLevel="true" android:startColor="#ff0787fe" android:endColor="#ff0962ff" android:angle="91" />
+                        <item android:name="shadowDx">0</item>
+                        <item android:name="shadowDy">4</item>
+                        <item android:name="shadowColor">#1a7e8c97</item>
+                </shape>
+        </item>
+</layer-list>

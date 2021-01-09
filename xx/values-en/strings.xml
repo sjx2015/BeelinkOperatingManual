@@ -1,0 +1,14 @@
+<resources tools:local="en" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Beelink Operating Manual</string>
+    <string name="boot">Boot</string>
+    <string name="network">Wireless Transmission</string>
+    <string name="voice">Voice Remote Control</string>
+    <string name="basic">Basic Introduction</string>
+    <string name="playback">Playback Setting</string>
+    <string name="personalization">Personalization</string>
+    <string name="commonProblems">Common problems</string>
+    <string name="shotcut">Quick Settings</string>
+    <string name="content_title">Beelink TV BOX Manual</string>
+    <string name="bootup_title">Boot</string>
+    <string name="bootup_content">Plug in the power to automatically boot</string>
+</resources>

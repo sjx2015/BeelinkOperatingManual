@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Manuale</string>
+	<string name="boot">Accensione e Spegnimento</string>
+	<string name="network">Connessione Wireless</string>
+	<string name="voice">Remote Control Voice</string>
+	<string name="basic">Introduzione di base</string>
+	<string name="playback">Regolazione del volume</string>
+	<string name="harddisk">Disco Rigido</string>
+	<string name="harddisk_gsking_x">Disco Rigido\n(GS-King X)</string>
+	<string name="personalization">Personalizzazione</string>
+	<string name="commonProblems">Problemi comuni</string>
+	<string name="shotcut">Impostazioni rapide</string>
+	<string name="content_title">Manuale Beelink TV BOX</string>
+	<string name="gtking_content"></string>
+	<string name="gtking_pro_content"></string>
+	<string name="bootup_title">Accensione</string>
+	<string name="bootup_content">1. Accensione e accensione automatica dopo lo spegnimento. \n 2. Con l\'alimentazione accesa, puntare il telecomando verso la TV box e premere il pulsante di accensione sul telecomando per accenderlo.</string>
+	<string name="shutdown_title">Spegnimento</string>
+	<string name="shutdown_content">1. All\'accensione, puntare il telecomando verso il TV box e premere il pulsante di accensione sul telecomando per spegnere. \n 2. All\'accensione, utilizzare il cursore del mouse volante per fare clic sul pulsante di accensione nell\'angolo in basso a sinistra dell\'interfaccia principale per spegnere.</string>
+	<string name="controller_pair_title">accoppiamento Telecomando</string>
+	<string name="controller_pair_content">Allo stesso tempo, premere il pulsante \“indietro\” e \“OK\” sul telecomando, l\'indicatore luminoso lampeggia, e dopo circa 4 secondi, l\'abbinamento telecomando è completata.</string>
+	<string name="controller_voice_title">metodo di input vocale</string>
+	<string name="controller_voice_content">Premere e tenere premuto il pulsante di voce, la spia è verde e lampeggiante. </string>
+	<string name="controller_mouse_title">Come aprire e chiudere la funzione di volano del mouse</string>
+	<string name="controller_mouse_content">Premere il pulsante del mouse per chiudere la funzione del mouse aperto / volare</string>
+	<string name="bluetooth_pair_title">accoppiamento Bluetooth</string>
+	<string name="bluetooth_pair_content">Dopo aver acceso il Bluetooth nelle impostazioni, dopo aver acceso l\'interruttore Bluetooth, la casella rileverà automaticamente i dispositivi Bluetooth nelle vicinanze collegati, e il destro del mouse riconoscerà automaticamente la connessione ..</string>
+	<string name="wifi_connect_title">Connessione wifi</string>
+	<string name="wifi_connect_content">Nella rete e in Internet nelle impostazioni, attiva la WLAN, fai clic su WLAN e seleziona il WIFI che desideri connettere</string>
+	<string name="hotspot_title">hotspot portatile</string>
+	<string name="hotspot_content">Quando è collegato alla rete Ethernet, aprire il "Rete e Internet" nelle impostazioni per accedere alla funzione hotspot portatile, è possibile aprire il hotspot portatile.</string>
+	<string name="sound_title">Suono</string>
+	<string name="sound_content">Utilizzare VOL + e VOL- sul telecomando per regolare il volume oppure immettere Impostazioni-Suono per regolare il volume dei media e il volume delle notifiche</string>
+
+	<string name="disk_install_remove">Montaggio e smontaggio del disco rigido</string>
+	<string name="disk_step1_content">1.Serrare il supporto si fianchi del disco rigido mediante la vite.</string>
+	<string name="disk_sideView">1.1 Vista laterale:</string>
+	<string name="disk_topView">1.2 Vista dall\'alto:</string>
+	<string name="disk_step2_content">2.Spingere il montato disco in fondo alla macchina nel senso della freccia sulla pista rivolgendo la porta del disco verso l\'interno, poi serrare le viti del coperchio posteriore per completare il montaggio.</string>
+	<string name="disk_step3_content">3.Aprire il coperchio posteriore, inserire lo strumento dall\'intervallo dei due dischi rigidi, estrarre il disco agganciandone un\'estremità per completare lo smontaggio.</string>
+
+	<string name="disk_format_init_title">2 Processo di formattazione/inizializzazione del disco rigido </string>
+	<string name="disk_init_two_ways">La formattazione/inizializzazione del disco rigido prevede due tipi di stato impostato：1、Stato con air mouse;
+2、Stato senza air mouse. \nConsiglio: è più conveniente lo stato con air mouse.</string>
+	<string name="disk_tv_init_hint">Suggerimento:\n\n
+1. Alla prima connessione del nuovo disco rigido, è illeggibile l\'informazione del disco rigido, si visualizza lo stato non formattato o non inizializzato, è quindi necessario formattare/inizializzare il disco rigido per la lettura e l\'uso normale.\n\n
+2. Nel sistema di Android, è impossibile formattare/inizializzare i dischi di alcuni marchi, si prega quindi di completare la formattazione/inizializzazione nel sistema Windows prima del riutilizzo.\n\n
+3. Qualora è necessario dividere il disco rigido, completare la divisione nel sistema Windows prima del riutilizzo. </string>
+
+	<string name="disk_airmouse_setting_title">2.1 Processo di impostazione dello stato con air mouse.</string>
+	<string name="disk_airmouse_remarks">Nota: memoria USB*****, * significa il nome del disco rigido.</string>
+	<string name="disk_airmouse_step1_content">2.1.1 Premere sul pulsante di Air mouse dal telecomando, estrarre la finestra a tendina superiore, cliccare su “Clicchi per formattare o inizializzare”.</string>
+	<string name="disk_airmouse_step2_content">2.1.2 Clicchi su “Dispositivo di memorizzazione portabile”</string>
+	<string name="disk_airmouse_step3_content">2.1.3 Spuneterà “Formatti o inizializzi la memoria USB? ” Cliccare su “Formatti/inizializzi la memoria USB ”</string>
+	<string name="disk_airmouse_step4_content">2.1.4 Spunta la finestra d\'avanzamento della memoria USB in formattazione/inizializzazione, non rimuoverlo a tal punto.</string>
+	<string name="disk_airmouse_step5_content">2.1.5 Spunta "E' utile la Sua memoria USB ", il disco rigido è formattato/completato.</string>
+
+	<string name="disk_no_airmouse_setting_title">2.2 Processo di impostazione dello stato senza Air mouse</string>
+	<string name="disk_no_airmouse_step1_content">2.2.1 Accendere a “Imposti”.</string>
+	<string name="disk_no_airmouse_step2_content">2.2.2 Cliccare su "Memorizzi".</string>
+	<string name="disk_no_airmouse_step3_content">2.2.3 Cliccare su “Memoria USB ****** non è formattato né inizializzato”</string>
+	<string name="disk_no_airmouse_step4_content">2.2.4 Spunta "Memoria USB non è formattato né inizializzato", clicchi su "Imposti".</string>
+	<string name="disk_no_airmouse_step5_content">2.2.5 I passi seguenti sono uguali a quelli di 2.1.2-2.1.5 per l\'impostazione dello stato con Air mouse.</string>
+	<string name="disk_no_airmouse_step5_list_content">2.1.2、Clicchi su “Dispositivo di memorizzazione portabile”\n\n2.1.3、Spuneterà “Formatti o inizializzi la memoria USB?” Cliccare su “Formatti/inizializzi la memoria USB”\n\n2.1.4、Spunta la finestra d\'avanzamento della memoria USB in formattazione/inizializzazione, non rimuoverlo a tal punto.\n\n2.1.5、Spunta "E' utile la Sua memoria USB ", il disco rigido è formattato/completato.\n</string>
+	<string name="disk_no_airmouse_step6_content">Consiglio: il disco formattato/inizializzato indica: lo stato d\'uso e la capacità del disco rigido.</string>
+
+	<string name="disk_safe_quit_title">3 Processo d\'uscita del harddisk in sicurezza:</string>
+	<string name="disk_safe_quit_content">1. Prima di disinserire il harddisk, seguire “Impostazione”>“Preferito del dispositivo”>“Spazio di memoria”>“Dispositivo di memoria”>“Esci”, il dispositivo di memoria visualizzerà l\'uscita in sicurezza, estrarre il harddisk a tal punto</string>
+	<string name="disk_safe_quit_content_warning">Attenzione: non inserire né disinserire a caldo!</string>
+
+	<string name="audio_output">Uscita audio</string>
+	<string name="audio_confirm">OK</string>
+	<string name="audio_confirm_rightarrow">\></string>
+
+	<string name="audio_hint">Interfaccia audio corrispondente</string>
+	<string name="audio_arrow">∨</string>
+	<string name="audio_content_title">Impostazioni audio e uscita sonora dell\'interfaccia </string>
+	<string name="audio_one_content_hdmi">HDMI:Porta HDMI Uscita sonora </string>
+	<string name="audio_two_content_spdif">SPDIF:Porta SPDIF Uscita sonora </string>
+	<string name="audio_three_content_av">AV:Porta AV Uscita sonora </string>
+	<string name="audio_four_content_hifi_sound">HiFi SOUND: Foro per cuffie、Porta d\'uscita RCA、Porta d\'uscita d\'equilibrio Uscita sonora </string>
+
+
+	<string name="resolution_title">Risoluzione</string>
+	<string name="resolution_content">Nelle impostazioni, trovare "Impostazioni Droid" per aprire e accedere al menu di visualizzazione. </string>
+	<string name="wallpaper_title">Sfondo</string>
+	<string name="wallpaper_content">1. Sull\'interfaccia principale, premere il pulsante menu sul telecomando per selezionare un\'immagine di sfondo del tema preimpostato. \n 2. Impostazioni-Display-Sfondo, scegli lo sfondo desiderato nella foto</string>
+	<string name="favorate_title">applicazioni preferite</string>
+	<string name="favorate_content">È possibile aggiungere le tue applicazioni preferite sul desktop facendo clic sul simbolo nella pagina bianca "+/-" in alto a destra dello schermo.</string>
+	<string name="sleep_title">Dormire</string>
+	<string name="sleep_content">Impostare il proprio tempo di sonno da “Impostazioni” - “Display” - “Sleep”. </string>
+	<string name="font_title">Dimensione del font</string>
+	<string name="font_content">La dimensione del carattere può essere regolata trascinando ad un piccolo punto sulla barra di avanzamento, dopo "Impostazioni" - "Display" - "Dimensione carattere".</string>
+	<string name="language_title">linguaggio</string>
+	<string name="language_content">Fare clic su Impostazioni, trovare \"Preferenze dispositivo\" nelle impostazioni e cliccare su questa opzione per trovare l\'opzione "Lingua". </string>
+	<string name="uninstall_title">Disinstallare software</string>
+	<string name="uninstall_content">Quando è necessario disinstallare il software, utilizzare i tasti freccia sul telecomando per selezionare il software, tenere premuto il tasto \"OK\" e selezionare Disinstalla</string>
+	<string name="help_language_title">Lingua fallimento modifica</string>
+	<string name="help_language_content">Il linguaggio non può essere modificato.</string>
+	<string name="help_powerkey_title">Come modificare la personalizzazione pulsante di accensione</string>
+	<string name="help_powerkey_content">Aprire le impostazioni, digitare Impostazioni Droid, trovare le opzioni di definizione pulsante di accensione, dopo aver inserito questa funzione, è possibile utilizzare il pulsante destro del mouse per selezionare la funzione che si desidera definire.</string>
+	<string name="help_lighthome_title">fallimento Lighthome</string>
+	<string name="help_lighthome_content">fallimento Lighthome.</string>
+	<string name="help_datetime_title">il tempo di sicurezza non è preciso</string>
+	<string name="help_datetime_content">Impostazioni -> Preferenze del dispositivo -> Ora e data -> determinare automaticamente la data e l\'ora -> Usa il tempo fornito dalla rete.</string>
+	<string name="help_ota_title">Come fare un aggiornamento OTA</string>
+	<string name="help_ota_content">Impostazioni -> Impostazioni Droid -> More Settings -> Sistema -> Info sul dispositivo -> Wireless Aggiornamento -> Rileva Update.</string>
+	<string name="help_firemare_title">Come installare un nuovo firmware</string>
+	<string name="help_firemare_usb_content">USB pennello Cavo tutorial: necessità di preparare l\'hardware: computer, cavo USB.</string>
+	<string name="help_firemare_usb_1">1.Scarica lo strumento Brucia, seguire le istruzioni della procedura guidata per l\'installazione e completa, l\'icona dovrebbe essere appare sul desktop</string>
+	<string name="help_firemare_usb_2">2.Download il firmware e salvarlo sul desktop per un facile accesso</string>
+	<string name="help_firemare_usb_3">3.Right fai clic su "Esegui come amministratore"</string>
+	<string name="help_firemare_usb_4">4.Immettere l\'interfaccia strumento pennello.</string>
+	<string name="help_firemare_usb_5">File 5.Click nell\'angolo in alto a sinistra e selezionare Importa immagine.</string>
+	<string name="help_firemare_usb_6">6.Load il firmware, clicca sull\'immagine Importa per entrare, trovare la posizione firmware USB scaricato, selezionare e aprire</string>
+	<string name="help_firemare_usb_7">7.Dopo il controllo immagine scompare, il pacchetto di pennello viene caricato completamente, quindi fare clic su Avvia.</string>
+	<string name="help_firemare_usb_8">8.Plug il tipo A maschio USB estremità maschio nella porta USB del computer, collegare l\'adattatore di alimentazione nella presa e inserire l\'alimentatore e il maschio alla porta USB maschio nella porta corrispondente GT-re in </string>
+	<string name="help_firemare_usb_9">9.Waiting per visualizzare l\'interfaccia di carico.</string>
+	<string name="help_firemare_usb_10">10.Dopo carico, scollegare il cavo USB e il cavo di alimentazione dal box, clicca arresto, chiudere lo strumento, e finire il pennello ..</string>
+	<string name="help_firemare_sd_content">Spazzola scheda SD Necessità esercitazione per preparare l\'hardware pennello: scheda SD.</string>
+	<string name="help_firemare_sd_1">1.Copia la scheda SD firmware lampeggiatore già caricati nella directory principale della scheda SD (formato scheda SD deve essere FAT32).</string>
+	<string name="help_firemare_sd_2">2.Inserire la scheda SD nello slot per schede SD, inserire il cavo HDMI, collegare il monitor, collegare l\'alimentazione e accenderlo.</string>
+	<string name="help_firemare_sd_3">3.Vai alla home page, fare clic su Aggiorna icona accedere alla pagina dell\'applicazione</string>
+	<string name="help_firemare_sd_4">4.Click "UPDATE BACKUP" e aprirlo.</string>
+	<string name="help_firemare_sd_5">Selezionare "cancellare i dati"" e 'Wipe media' (se avete bisogno di dati wape), quindi fare clic sul pulsante 'Select'.</string>
+	<string name="help_firemare_sd_6">6.Selezionare il file zip che si scarica dal PC.</string>
+	<string name="help_firemare_sd_7">7.Fare clic sul pulsante \"Aggiorna\" per avviare l\'aggiornamento.</string>
+	<string name="help_firemare_sd_8">8.Wait per l\'aggiornamento per il completamento.</string>
+
+
+	<string name="controller_b1_info1">Si tratta di una falena wireless con sensore giroscopio a 6 assi integrato e ingresso vocale ad alta fedeltà.La funzione mouse di controllo remoto tradizionale può essere implementata sulla piattaforma Android.</string>
+	<string name="controller_b1_info2">Micro ricevitori plug-and-play,Adatto per computer, proiettori, set-top box TV, HTPC.</string>
+	<string name="controller_b1_info3">Si può completamente liberare da computer, televisori, proiezioni e altri dispositivi di intrattenimento e solo scuotere il polso, e l\'orientamento del polso sarà immediatamente convertito nel cursore sullo schermo.</string>
+	<string name="controller_b2_info1">Sentirsi a proprio agio, conveniente, completamente evitare il tradizionale bisogno del mouse al desktop statico come un \'operazione di riferimento o il funzionamento della chiave di controllo a raggi infrarossi degli inconvenienti, lasciatevi sdraiare per giocare al computer, la TV non è stanco, tempo libero rilassato, completamente "controllo" del computer, TV.</string>
+	<string name="controller_b2_info2">Modalità d\'uso:</string>
+	<string name="controller_b2_info3">ricevitore a infrarossi, quando non c\'è connessione Bluetooth, il telecomando invia il valore della chiave pertinente attraverso infrarossi, collega Bluetooth e invia il valore della chiave tramite Bluetooth. Non puoi usare falene e voce quando non sei connesso al Bluetooth. </string>
+	<string name="controller_b2_info4">1. Metodo di accoppiamento del telecomando con mouse volante Bluetooth / a infrarossi</string>
+	<string name="controller_b2_info5">"Per la prima volta, tenendo premuta la combinazione di tasti sul telecomando (tasto pagina e tasto volume) 5 secondi in modalità di associazione, in modalità di associazione, la luce del telecomando lampeggia rapidamente, è possibile cercare il nome del telecomando (Beelink_AirW) sul dispositivo operativo, l\'associazione può essere utilizzata dopo la connessione. Quando si agita il mouse, il cursore si sposta sullo schermo, il che significa che l'associazione ha esito positivo."</string>
+
+	<string name="controller_b3_info1">2. Metodo di accoppiamento con telecomando per mouse volante wireless 2.4G</string>
+	<string name="controller_b3_info2">Scollegare la testina di ricezione USB del dispositivo utilizzato, collegare la testina di ricezione USB e agitare il mouse. Il cursore si sposterà sullo schermo per indicare che l\'accoppiamento è andato a buon fine. Se l\'associazione non ha esito positivo, premere contemporaneamente i tasti "pulsante indietro" e "OK" sul telecomando Dopo 4 secondi, l\'indicatore lampeggia. Quando la luce rossa smette di lampeggiare, l\'associazione ha esito positivo e puoi iniziare a usarla.</string>
+	<string name="controller_b3_info3">La velocità del mouse aviotrasportata supporta 3 livelli di regolazione</string>
+	<string name="controller_b3_info4">1. Metodo di regolazione del telecomando con mouse volante Bluetooth / a infrarossi</string>
+	<string name="controller_b3_info5">Velocità del mouse da lenta a veloce: premere "0K" e "pagina" per tre secondi contemporaneamente, la velocità del cursore è più veloce.</string>
+	<string name="controller_b3_info6">Velocità del mouse da veloce a più lenta: premere "OK" e "pagina-" per tre secondi contemporaneamente, la velocità del cursore diventa più veloce.</string>
+
+	<string name="controller_b4_info1">2. Metodo di regolazione del telecomando con mouse volante wireless 2.4G</string>
+	<string name="controller_b4_info2">Il regime del mouse si accelera: Premere contestualmente su “OK” e “Volume+” per accelerare il regime del mouse.</string>
+	<string name="controller_b4_info3">Il regime del mouse si decelera: Premere contestualmente su “OK” e “Volume-” per accelerare il regime del mouse.</string>
+	<string name="controller_b4_info4">Pulsante funzione:</string>
+	<string name="controller_b4_info5">Home: Torna all\'interfaccia principale</string>
+	<string name="controller_b4_info6">Ritorno:Tornare alla schermata del livello successivo</string>
+	<string name="controller_b4_info7">oK: Confermare l\'azione o inserire il cursore</string>
+	<string name="controller_b4_info8">Mouse: bloccare il mouse wireless e premere per riaccenderlo.</string>
+
+	<string name="controller_b5_info1">Funzione vocale: </string>
+	<string name="controller_b5_info2">Tenere premuto il pulsante del microfono per aprire il canale vocale. Sollevare il pulsante del microfono e chiudere il canale vocale.</string>
+	<string name="controller_b5_info3">Punta a bassa potenza：</string>
+	<string name="controller_b5_info4">Quando la batteria AAA del prodotto è scarica, La luce LED rallenta il promemoria del flash (dopo aver premuto un tasto durante l\'uso e poi rilasciando, se la batteria viene rilevata scarica, la luce LED lampeggia una volta un secondo, flashcinque volte per indicare che la batteria è troppo bassa, è necessario sostituire la batteria), in questo momento è necessario sostituire la nuova batteria.</string>
+	<string name="controller_b5_info5">Calibrazione del sensore:</string>
+	<string name="controller_b5_info6">1.Metodo di calibrazione del telecomando con mouse volante Bluetooth / a infrarossi</string>
+	<string name="controller_b5_info7">Il primo utilizzo della funzione falena, deve essere calibrato: allo stesso tempo premere il tasto di apertura della falena e il tasto del menu 3s sopra, la luce nello stato flash, in questo momento nella modalità di calibrazione della falena, il telecomando fermo piatto sul desktop, in attesa della calibrazione della falena, fino a quando la luce non lampeggia più, la calibrazione è completa.</string>
+
+	<string name="controller_b6_info1">2. Metodo di calibrazione del telecomando con mouse volante wireless 2.4G</string>
+    <string name="controller_b6_info3">Specifiche del prodotto:</string>
+	<string name="controller_b6_info4">Trasmissione: Bluetooth e infrarossi \/ 2.4G senza fili e infrarossi </string>
+	<string name="controller_b6_info5">Sensore: giroscopio a 6 assi</string>
+	<string name="controller_b6_info6">Numero di tasti: 17</string>
+	<string name="controller_b6_info7">Distanza: 10M</string>
+	<string name="controller_b6_info8">Tipo di batteria: AAAx2</string>
+	<string name="controller_b6_info9">Materiale prodotto: pulsante in silicone in plastica ABS</string>
+	<string name="controller_b6_info10">Dimensioni: 143 x 45 x 29MM</string>
+	<string name="controller_b6_info11">Peso: 50g</string>
+	<string name="controller_b6_info12">Attenzione:</string>
+	<string name="controller_b6_info13">1. Questo prodotto ha una modalità di prova, personale di manutenzione non professionale vietato!</string>
+	<string name="controller_b6_info14">2. In uso normale, se la luce è accesa o altre condizioni anomale, il terreno elettrico può essere ripristinato.</string>
+    <string name="controller_b6_info2">Durante l\'utilizzo, dato che i cambiamenti di voltaggio e temperatura causano la deriva del cursore, per favore coricare il prodotto sul tavolo per mantenere lo stato statico, risvegliarlo dallo stato di sonno per completare la calibrazione.</string>
+</resources>

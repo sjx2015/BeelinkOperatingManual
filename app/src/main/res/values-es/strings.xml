@@ -1,0 +1,188 @@
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Manual</string>
+    <string name="boot">Encendido y apagado</string>
+    <string name="network">Transmisión inalámbrica</string>
+    <string name="voice">Control remoto</string>
+    <string name="basic">Introducción basica</string>
+    <string name="playback">Ajuste de volumen</string>
+    <string name="harddisk">Disco duro</string>
+    <string name="harddisk_gsking_x">Disco duro\n(GS-King X)</string>
+    <string name="personalization">Personalization</string>
+    <string name="commonProblems">Preguntas frecuentes</string>
+    <string name="shotcut">Ajustes rápidos</string>
+
+    <string name="content_title">Beelink TV BOX Manual</string>
+
+
+    <string name="gtking_content"></string>
+    <string name="gtking_pro_content"></string>
+
+    <string name="bootup_title">Arranque</string>
+    <string name="bootup_content">1. Encender y encender automáticamente después de apagar. \n 2. Con la alimentación encendida, apunte el control remoto a la caja de TV y presione el botón de encendido del control remoto para encenderlo.</string>
+    <string name="shutdown_title">Cerrar</string>
+    <string name="shutdown_content">1. Al encender, apunte el control remoto a la caja de TV y presione el botón de encendido en el control remoto para apagar. \n 2. Al encender, use el cursor del mouse para hacer clic en el botón de encendido en la esquina inferior izquierda de la interfaz principal para apagar.</string>
+
+
+    <string name="controller_pair_title">Control remoto emparejamiento</string>
+    <string name="controller_pair_content">Al mismo tiempo, presione el "botón de retroceso" y "ok" en el control remoto, la luz indicadora parpadeará y, después de aproximadamente 4 segundos, se completará el emparejamiento del control remoto.</string>
+    <string name="controller_voice_title">La entrada de voz</string>
+    <string name="controller_voice_content">Mantenga presionado el botón de voz, la luz indicadora es verde y parpadea. No suelte el botón de voz cuando la pantalla dice "Whit está escuchando ...", solo diga la función que necesita buscar.</string>
+    <string name="controller_mouse_title">Función de mouse volador</string>
+    <string name="controller_mouse_content">Presione el botón del mouse para abrir / cerrar la función del mouse volador</string>
+
+
+    <string name="bluetooth_pair_title">Emparejamiento Bluetooth</string>
+    <string name="bluetooth_pair_content">Active el Bluetooth en la configuración, después de encender el interruptor Bluetooth, la caja detectará automáticamente los dispositivos Bluetooth conectados cercanos, haciendo clic derecho del mouse reconocerá automáticamente la conexión.</string>
+    <string name="wifi_connect_title">Conexión Wifi</string>
+    <string name="wifi_connect_content">En la red e Internet en la configuración, encienda WLAN, haga clic en WLAN y seleccione el WIFI que desea conectar</string>
+    <string name="hotspot_title">Hotspot portatil</string>
+    <string name="hotspot_content">Cuando esté conectado a una red, abra la "Red e Internet" en la configuración para ingresar a la función de punto de acceso portátil, puede abrir el punto de acceso portátil.</string>
+
+    <string name="sound_title">Ajuste de volumen</string>
+    <string name="sound_content">Use VOL + y VOL- en el control remoto para ajustar el volumen, o ingrese Configuración-Sonido para ajustar el volumen de medios y el volumen de notificaciones</string>
+
+    <string name="disk_install_remove">Instalación y extracción de discos duros</string>
+    <string name="disk_step1_content">1.Use los tornillos para bloquear el soporte del disco duro en ambos lados del disco duro.</string>
+    <string name="disk_sideView">1.1 Vista lateral:</string>
+    <string name="disk_topView">1.2 Vista superior:</string>
+    <string name="disk_step2_content">2.Empuje la interfaz del disco duro instalada en el dispositivo en la dirección de la flecha a lo largo de la pista del soporte, empújela hasta el final y luego bloquee el tornillo de la cubierta trasera para completar la instalación.</string>
+    <string name="disk_step3_content">3.Abra la cubierta trasera, inserte la herramienta entre los dos discos duros, enganche un extremo del disco duro y extráigalo para completar la extracción.</string>
+
+    <string name="disk_format_init_title">2 Pasos de configuración del formateo / inicialización del disco duro</string>
+    <string name="disk_init_two_ways">Dos estados de configuración de formateo / inicialización del disco duro : 1. Configuración del estado del ratón volador 2. Configuración de estado sin  ratón volador.\nConsejos: La configuración del estado con ratón volador es más conveniente.</string>
+    <string name="disk_tv_init_hint">Consejos:\n\n
+1. Cuando se conecta la primera vez un nuevo disco duro, la información del disco duro no se puede leer, lo que muestra que no está formateado o no se ha inicializado. Es necesario formatear / inicializar el disco duro para leerlo y usarlo normalmente.\n\n
+2. Algunas marcas de discos duros en el sistema Android no pueden formatearse / inicializarse. Complete el formateo / inicialización antes de utilizar bajo el sistema Windows.\n\n
+3. Si necesita particionar el disco duro, complete la partición en el sistema Windows antes de usar.</string>
+
+    <string name="disk_airmouse_setting_title">2.1 Pasos de configuración de estado del ratón volador </string>
+    <string name="disk_airmouse_remarks">Nota: ***** Almacenamiento USB, * representa el nombre del disco duro.</string>
+    <string name="disk_airmouse_step1_content">2.1.1 Presione el botón de ratón volador en el control remoto, abra la ventana desplegable en la parte superior y haga clic en &#060;clic para formatear o inicializar&#062;.</string>
+    <string name="disk_airmouse_step2_content">2.1.2 Haga clic en &#060;Dispositivo de almacenamiento portátil&#062;.</string>
+    <string name="disk_airmouse_step3_content">2.1.3 Se emerge la ventana &#060;¿Desea formatear / inicializar este almacenamiento USB?&#062;, Haga clic en &#060;Formatear / inicializar este almacenamiento USB&#062;.</string>
+    <string name="disk_airmouse_step4_content">2.1.4 No retire el disco duro al emerger la ventana el progreso de formateo / inicialización del almacenamiento USB.</string>
+    <string name="disk_airmouse_step5_content">2.1.5 Se emerge &#060;Su almacenamiento USB está listo para usar&#062;, el formateo / inicialización del disco duro ya está finalizado.</string>
+
+    <string name="disk_no_airmouse_setting_title">2.2 Pasos de configuración sin ratón volador</string>
+    <string name="disk_no_airmouse_step1_content">2.2.1 Vaya a &#060;Configuración&#062;.</string>
+    <string name="disk_no_airmouse_step2_content">2.2.2 Haga clic en &#060;Guardar&#062;.</string>
+    <string name="disk_no_airmouse_step3_content">2.2.3 Haga clic en &#060;****** El almacenamiento USB no está formateado o inicializado&#062;.</string>
+    <string name="disk_no_airmouse_step4_content">2.2.4 la ventana de &#060;Este almacenamiento USB no está formateado o no está inicializado&#062; emerge, haga clic en &#060;Configurar&#062;.</string>
+    <string name="disk_no_airmouse_step5_content">2.2.5 Los siguientes pasos son los mismos que los pasos 2.1.2 ~ 2.1.5 para establecer el estado del ratón volador</string>
+    <string name="disk_no_airmouse_step5_list_content">2.1.2、Haga clic en &#060;Dispositivo de almacenamiento portátil&#062;.\n\n2.1.3、Se emerge la ventana &#060;¿Desea formatear / inicializar este almacenamiento USB?&#062;, Haga clic en &#060;Formatear / inicializar este almacenamiento USB&#062;.\n\n2.1.4、 No retire el disco duro al emerger la ventana el progreso de formateo / inicialización del almacenamiento USB.\n\n2.1.5、 Se emerge &#060;Su almacenamiento USB está listo para usar&#062;, el formateo / inicialización del disco duro ya está finalizado.\n</string>
+    <string name="disk_no_airmouse_step6_content">Recordatorio: El disco duro que se ha formateado / inicializado muestra: el estado de uso y la capacidad del disco duro.</string>
+
+    <string name="disk_safe_quit_title">3 Pasos para la salida segura del disco duro:</string>
+    <string name="disk_safe_quit_content">1. Antes de desconectar el disco duro, primero seleccione "Configuración"> "Preferencias del dispositivo"> ​​"Espacio de almacenamiento"> "Dispositivo de almacenamiento"> "Retirar", se muestra una salida segura del dispositivo de almacenamiento y luego desconecte el disco duro.</string>
+    <string name="disk_safe_quit_content_warning">Consejo: ¡No intercambie en caliente!</string>
+
+    <string name="audio_output">Salida de audio</string>
+    <string name="audio_confirm">OK</string>
+    <string name="audio_confirm_rightarrow">\></string>
+
+    <string name="audio_hint">Interfaz de audio correspondiente</string>
+    <string name="audio_arrow">∨</string>
+    <string name="audio_content_title">Configuración de audio y salida de sonido de interfaz </string>
+    <string name="audio_one_content_hdmi">HDMI:Puerto HDMI Salida de sonido </string>
+    <string name="audio_two_content_spdif">SPDIF:Puerto SPDIF Salida de sonido </string>
+    <string name="audio_three_content_av">AV:Puerto AV Salida de sonido </string>
+    <string name="audio_four_content_hifi_sound">HiFi SOUND: Orificio de auricular de，Puerto de salida RCA，Puerto de salida de balanza Salida de sonido </string>
+
+    <string name="resolution_title">Ajuste de resolución</string>
+    <string name="resolution_content">En la configuración, busque "Configuración de Droid" para abrir e ingresar al menú de visualización. Después de encontrar la resolución de la pantalla, solo necesita activar el cambio automático de la resolución de pantalla óptima.</string>
+    <string name="wallpaper_title">Papel pintado</string>
+    <string name="wallpaper_content">1. En la interfaz principal, presione el botón de menú en el control remoto para seleccionar una imagen de fondo del tema preestablecido. \n 2. Configuración-Pantalla-Fondo de pantalla, elija el fondo de pantalla que desea en la foto</string>
+    <string name="favorate_title">Aplicaciones favoritas</string>
+    <string name="favorate_content">puede agregar sus aplicaciones favoritas a su escritorio haciendo clic en el símbolo "+/-" en la página en blanco en la parte superior derecha de la pantalla.</string>
+    <string name="sleep_title">Sistema de suspensión</string>
+    <string name="sleep_content">Establezca su propio tiempo de suspensión desde "Configuración" - "Pantalla" - "Suspensión". Después de que la configuración sea exitosa, la caja ingresará al modo de suspensión dentro del tiempo establecido. Si necesita desactivar el modo de suspensión, necesita encontrar el número de versión en "Configuración" - "Sistema" - "Acerca del dispositivo", luego haga clic izquierdo en esta opción para abrir la opción de desarrollador 5 veces o más. Se puede hacer clic en la opción de desarrollador una vez para volver a la interfaz "Sistema", y las "Opciones de desarrollador" se pueden encontrar en la interfaz del sistema. Después de activar la opción de desarrollador, el modo de suspensión de la pantalla se puede desactivar directamente desde la "Pantalla sin bloqueo".</string>
+    <string name="font_title">tamaño de fuente</string>
+    <string name="font_content">El tamaño de fuente se puede ajustar arrastrando a un pequeño punto en la barra de progreso después de "Configuración" - "Pantalla" - "Tamaño de fuente".</string>
+    <string name="language_title">Idioma</string>
+    <string name="language_content">Haga clic en Configuración, busque "Preferencias del dispositivo" en la configuración y haga clic en esta opción para buscar la opción "Idioma". Los idiomas se pueden cambiar en las opciones de idioma.</string>
+    <string name="uninstall_title">Desinstalar software</string>
+    <string name="uninstall_content">Desinstalar la APLICACIÓN: Cuando necesite desinstalar el software, use las teclas de flecha en el control remoto para seleccionar el software, presione y mantenga presionada la tecla \"OK\" y seleccione Desinstalar</string>
+
+
+    <string name="help_language_title">Configuración de idioma fallida</string>
+    <string name="help_language_content">Después de encenderlo, el idioma del tema se convierte en coreano y la selección de idioma no es válida. Desactive la función de cambio de idioma en la función HDMI CEC y luego vuelva a cambiar el idioma.</string>
+    <string name="help_powerkey_title">cómo modificar la personalización del botón de encendido</string>
+    <string name="help_powerkey_content">Configuración: configuración de Droid, abra la definición del botón de encendido, seleccione la función que desea configurar el botón de encendido</string>
+    <string name="help_lighthome_title">No se puede obtener información sobre el clima.</string>
+    <string name="help_lighthome_content">No se puede obtener información del clima</string>
+    <string name="help_datetime_title">El tiempo de caja no es exacto</string>
+    <string name="help_datetime_content">Configuración -> Preferencias del dispositivo -> Hora y fecha -> Determinar automáticamente la fecha y la hora -> Usar la hora proporcionada por la red.</string>
+    <string name="help_ota_title">Cómo hacer una actualización de OTA</string>
+    <string name="help_ota_content">Configuración-Sistema-Actualización del sistema, haga clic en Detectar actualización para ver si hay una nueva actualización de inserción OTA o haga clic en la esquina superior derecha para seleccionar la actualización local</string>
+    <string name="help_firemare_title">Cómo instalar un nuevo firmware</string>
+    <string name="help_firemare_usb_content">Tutorial de cepillado de cable USB: necesita preparar el hardware: computadora, cable USB.</string>
+    <string name="help_firemare_usb_1">1.Descargue la herramienta de grabación, siga las instrucciones del asistente para instalar y completar, el icono debe aparecer en su escritorio</string>
+    <string name="help_firemare_usb_2">2.Descargue el firmware y guárdelo en su escritorio para acceder fácilmente</string>
+    <string name="help_firemare_usb_3">3. Haga clic derecho en "Ejecutar como administrador"</string>
+    <string name="help_firemare_usb_4">4. Ingrese a la interfaz de la herramienta Pincel.</string>
+    <string name="help_firemare_usb_5">5.Haga clic en Archivo en la esquina superior izquierda y seleccione Importar imagen.</string>
+    <string name="help_firemare_usb_6">6. Cargue el firmware, haga clic en Importar imagen para ingresar, busque la ubicación del firmware USB descargado, seleccione y abra </string>
+    <string name="help_firemare_usb_7">7.Después de que desaparezca la comprobación de la imagen, el paquete de pincel se carga por completo y luego haga clic en Iniciar.</string>
+    <string name="help_firemare_usb_8">8. Enchufe los extremos USB tipo A macho a macho en el puerto USB de la computadora, conecte el adaptador de alimentación a la toma e inserte el adaptador de alimentación y el puerto USB macho a macho en el puerto correspondiente del GT-King en el La misma hora (Nota: el puerto GT-King debe estar al mismo tiempo, de lo contrario no se puede leer el firmware correctamente).</string>
+    <string name="help_firemare_usb_9">9. Esperando a que aparezca la interfaz de carga.</string>
+    <string name="help_firemare_usb_10">10.Después de cargar, desconecte el cable USB y el cable de alimentación de la caja, haga clic en detener, cierre la herramienta y termine el pincel.</string>
+    <string name="help_firemare_sd_content">Tutorial de pincel de tarjeta SD Necesita preparar el hardware del pincel: tarjeta SD.</string>
+    <string name="help_firemare_sd_1">1.Copie el firmware del flash de la tarjeta SD ya cargado en el directorio raíz de la tarjeta SD (el formato de la tarjeta SD debe ser FAT32). </string>
+    <string name="help_firemare_sd_2">2.Inserte la tarjeta SD en la ranura para tarjetas SD, conecte el cable HDMI, conecte el monitor, conecte la alimentación y enciéndalo.</string>
+    <string name="help_firemare_sd_3">3.Vaya a la página de inicio, haga clic en el icono ACTUALIZAR, ingrese a la página de la aplicación</string>
+    <string name="help_firemare_sd_4">4.Haga clic en "ACTUALIZAR COPIA DE SEGURIDAD" y ábralo.</string>
+    <string name="help_firemare_sd_5">5.Compruebe "Borrar datos" y "Borrar medios" (si necesita borrar datos), luego haga clic en el botón "Seleccionar".</string>
+    <string name="help_firemare_sd_6">6. Seleccione el archivo zip que descargue de la PC.</string>
+    <string name="help_firemare_sd_7">7. Haga clic en el botón "Actualizar" para iniciar la actualización.</string>
+    <string name="help_firemare_sd_8">8. Espere a que se complete la actualización.</string>
+
+    <string name="controller_b1_info1">Esta es un Flymouse inalámbrico con sensor de giroscopio de 6 ejes incorporado y entrada de voz de alta fidelidad.La función tradicional de control remoto del mouse se puede implementar en la plataforma Android.</string>
+    <string name="controller_b1_info2">Receptor en miniatura plug-and-play,Adecuado para computadora, proyector, decodificador de TV, HTPC. </string>
+    <string name="controller_b1_info3">Puede llevarte desde tu computadora, tu TV,La proyección y otros dispositivos de entretenimiento son completamente gratuitos, solo sacude tu muñeca,La dirección de su muñeca se convertirá instantáneamente en un cursor en la pantalla .</string>
+    <string name="controller_b2_info1">Siéntete cómodo y conveniente,Evita por completo la necesidad de un mouse tradicional para referirse a un escritorio estacionarioO las desventajas del funcionamiento del botón de control remoto por infrarrojos, que te hace acostarte mientras juegas con la computadora y la televisión,Relájese y controle completamente su computadora y TV. </string>
+    <string name="controller_b2_info2">Cómo utilizar:</string>
+    <string name="controller_b2_info3">Este dispositivo de control necesita un receptor Bluetooth o infrarrojo. Cuando el Bluetooth no está conectado, el control remoto envía solo ordenes a través de infrarrojos, después de conectar por Bluetooth las ordenas se envían a través de Bluetooth.El Fly mouse y las funciones de voz no se pueden usar cuando el Bluetooth no está conectado.</string>
+    <string name="controller_b2_info4">1. Método de emparejamiento de control remoto del mouse volador de voz Bluetooth / infrarrojo</string>
+    <string name="controller_b2_info5">Al encenderlo por primera vez, presione y mantenga presionada la combinación de teclas  (Page ARRIBA  y Vol +) en el control remoto durante 5 segundos para entrar en modo emparejamiento. Después de ingresar al modo emparejamiento, la luz del control remoto parpadeará rápidamente y podrá buscar el control remoto en el dispositivo operado con el nombre (Beelink_AirW), estará listo para usarse después del emparejamiento.
+Agite el mando y el cursor se moverá en la pantalla,
+El emparejamiento del mando fue exitoso. </string>
+
+    <string name="controller_b3_info1">2. Método de emparejamiento de control remoto de ratón volador inalámbrico de voz 2.4G</string>
+    <string name="controller_b3_info2">Desconecte el cabezal receptor USB del dispositivo operado, conecte el cabezal receptor USB y agite el mouse. El cursor se moverá en la pantalla para indicar que el emparejamiento fue exitoso. Si el emparejamiento no es exitoso, presione las teclas "botón Atrás" y "OK" en el control remoto al mismo tiempo Después de 4 segundos, el indicador parpadea. Cuando la luz roja deja de parpadear, el emparejamiento es exitoso y puede comenzar a usarlo.</string>
+    <string name="controller_b3_info3">La velocidad del mouse de Air Mouse admite 3 niveles de ajuste</string>
+    <string name="controller_b3_info4">1. Método de ajuste del control remoto del mouse volador Bluetooth / infrarrojo</string>
+    <string name="controller_b3_info5">La velocidad del mouse cambió de lenta a rápida: Presione "OK" y "Page ARRIBA" simultáneamente durante tres segundos, la velocidad del cursor se vuelve más rápida. </string>
+    <string name="controller_b3_info6">La velocidad del mouse cambió de rápida a lenta: Presione "OK" y "Page ABAJO" simultáneamente durante tres segundos, la velocidad del cursor se vuelve más lenta.</string>
+
+    <string name="controller_b4_info1">2. Método de ajuste del control remoto del mouse volador inalámbrico de voz 2.4G</string>
+    <string name="controller_b4_info2">Velocidad del mouse de lenta a rápida: presione las teclas "OK" y "Volumen +" al mismo tiempo, la velocidad del cursor será más rápida.</string>
+    <string name="controller_b4_info3">La velocidad del mouse cambió de rápida a lenta: Presione las teclas "OK" y "Volumen-" al mismo tiempo, la velocidad del cursor se vuelve más lenta.</string>
+    <string name="controller_b4_info4">Teclas de función:</string>
+    <string name="controller_b4_info5">Inicio: volver a la interfaz principal</string>
+    <string name="controller_b4_info6">Atrás: volver a la pantalla anterior</string>
+    <string name="controller_b4_info7">OK: confirmar acción o insertar cursor</string>
+    <string name="controller_b4_info8">Mouse: Bloquee el mouse inalámbrico y presiónelo nuevamente para encender el mouse.</string>
+
+    <string name="controller_b5_info1">Función de voz:</string>
+    <string name="controller_b5_info2">Mantenga presionado el botón del micrófono para abrir el canal de voz. Levante el botón del micrófono para cerrar el canal de voz.</string>
+    <string name="controller_b5_info3">Recordatorio de batería baja:</string>
+    <string name="controller_b5_info4">Cuando la batería AAA del producto está baja, la luz LED parpadea lentamente (después de presionar un botón durante la liberación y soltarlo, si se detecta que el nivel de la batería es bajo, la luz LED parpadeará una vez por segundo y cinco veces para indicar que el nivel de la batería es demasiado bajo y la batería necesita ser reemplazada) La batería necesita ser reemplazada.</string>
+    <string name="controller_b5_info5">Calibrazione del sensore:</string>
+    <string name="controller_b5_info6">1.Método de calibración del control remoto del mouse volador Bluetooth / Infrarrojo</string>
+    <string name="controller_b5_info7">Para usar el Fly Mouse por primera vez, debe realizar la calibración: presione la tecla de Fly Mouse y la tecla de Menú durante más de 3 segundos al mismo tiempo, la luz indicadora empezará a parpadear rápidamente. En este momento, ingresará al modo de calibración de Fly Mouse, coloque el control remoto en el escritorio y espere a que el Fly Mouse se calibre. El indicador dejará de parpadear y se habrá completado la calibración.</string>
+
+    <string name="controller_b6_info1">2. Método de calibración del control remoto del mouse volador inalámbrico de voz 2.4G</string>
+    <string name="controller_b6_info2">El cursor se desplaza debido a cambios de voltaje y temperatura durante el uso, Mantenga la máquina plana sobre el escritorio y manténgala quieta.Después de que el producto duerme, puede despertarse nuevamente para completar la calibración. </string>
+    <string name="controller_b6_info3">Especificaciones:</string>
+    <string name="controller_b6_info4">Método de transmisión: Bluetooth e infrarrojo \/ 2.4G inalámbrico e infrarrojo </string>
+    <string name="controller_b6_info5">Sensor: giroscopio de 6 ejes</string>
+    <string name="controller_b6_info6">Número de llaves: 17</string>
+    <string name="controller_b6_info7">Distancia de transmisión: 10 M</string>
+    <string name="controller_b6_info8">Tipo de batería: AAA * 2</string>
+    <string name="controller_b6_info9">Material del producto: botón de silicona plástico ABS</string>
+    <string name="controller_b6_info10">Tamaño del producto: 143 * 45 * 29MM</string>
+    <string name="controller_b6_info11">Peso del producto: 50g</string>
+    <string name="controller_b6_info12">Nota:</string>
+    <string name="controller_b6_info13">1. Este producto tiene un modo de prueba, ¡el personal de mantenimiento no profesional tiene prohibido usarlo!</string>
+    <string name="controller_b6_info14">2. Bajo uso normal, si el indicador está siempre encendido u otras condiciones anormales, puede restaurarlo reinstalando las baterias.</string>
+</resources>

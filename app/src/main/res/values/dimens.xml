@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_up_view_width">30dp</dimen>
+    <dimen name="main_up_view_height">30dp</dimen>
+    <dimen name="fragment_content_padding">20dp</dimen>
+    <dimen name="fragment_card_margin">10dp</dimen>
+    <dimen name="fragment_card_radius">6dp</dimen>
+    <dimen name="fragment_card_elevation">10dp</dimen>
+    <dimen name="fragment_card_item_title">18sp</dimen>
+    <dimen name="fragment_card_item_content">14sp</dimen>
+</resources>

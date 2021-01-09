@@ -1,0 +1,188 @@
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ユーザーマニュアル</string>
+    <string name="boot">電源オンとオフ</string>
+    <string name="network">ワイヤレス伝送</string>
+    <string name="voice">リモコン</string>
+    <string name="basic">基本的な紹介</string>
+    <string name="playback">音量調整</string>
+    <string name="harddisk">ハードディスク</string>
+    <string name="harddisk_gsking_x">ハードディスク\n(GS-King X)</string>
+    <string name="personalization">パーソナライズ</string>
+    <string name="commonProblems">よくある質問</string>
+    <string name="shotcut">クイック設定</string>
+
+    <string name="content_title">Beelink TV BOX Manual</string>
+
+
+    <string name="gtking_content"></string>
+    <string name="gtking_pro_content"></string>
+
+    <string name="bootup_title">ブート</string>
+    <string name="bootup_content">1.電源を入れ、電源を切った後、自動的に電源を入れます. \n 2.電源が入っている状態で、リモコンをTVボックスに向け、リモコンの電源ボタンを押して電源を入れます。</string>
+    <string name="shutdown_title">シャットダウンする</string>
+    <string name="shutdown_content">1.電源を入れるときは、リモコンをTVボックスに向け、リモコンの電源ボタンを押して電源を切ります. \n 2.電源を入れるときは、フライングマウスカーソルを使用して、メインインターフェイスの左下隅にある電源ボタンをクリックしてシャットダウンします。</string>
+
+
+    <string name="controller_pair_title">リモコンのペアリング</string>
+    <string name="controller_pair_content">同時に、リモコンの「戻るボタン」と「OKボタン」を押すと、インジケータランプが点滅し、約4秒後にリモコンのペアリングが完了します。</string>
+    <string name="controller_voice_title">音声入力方法</string>
+    <string name="controller_voice_content">音声ボタンを押したままにすると、インジケータランプが緑色に点滅します。画面に「Whit is listen ...」と表示されているときに音声ボタンを放さないで、検索する必要があるものを言ってください。</string>
+    <string name="controller_mouse_title">フライングマウス機能の開閉方法</string>
+    <string name="controller_mouse_content">リモコンのフライングマウスボタンを押すと、フライングマウス機能がオフになり、フライングマウスボタンをもう一度押すと、フライングマウス機能が再びオンになります。</string>
+
+
+    <string name="bluetooth_pair_title">Bluetoothのペアリング</string>
+    <string name="bluetooth_pair_content">設定でBluetoothをオンにした後、Bluetoothスイッチをオンにすると、ボックスは近くの接続済みBluetoothデバイスを自動的に検出し、マウスの右クリックで接続を自動的に認識します。</string>
+    <string name="wifi_connect_title">WiFi接続</string>
+    <string name="wifi_connect_content">設定で「ネットワークとインターネット」を開き、WiFiオプションを開き、ホットスポットを選択してパスワードを入力して接続します。 （Bluetooth機能を使用する場合、5.8GWiFiを使用してWiFiとBluetoothの競合を回避し、相互に影響を与えることをお勧めします）</string>
+    <string name="hotspot_title">ポータブルホットスポットオン</string>
+    <string name="hotspot_content">イーサネットに接続したら、設定で「ネットワークとインターネット」を開き、ポータブルホットスポット機能を入力すると、ポータブルホットスポットを開くことができます。</string>
+
+    <string name="sound_title">声音</string>
+    <string name="sound_content">リモコンのVOL +とVOL-を使用して音量を調整するか、Settings-Soundを入力してメディアの音量と通知の音量を調整します</string>
+
+    <string name="disk_install_remove">ハードディスクの取り付けと取り外し</string>
+    <string name="disk_step1_content">1.ネジを使用して、ハードディスクのブラケットをハードディスクの両側に締め付けます。</string>
+    <string name="disk_sideView">1.1 側面図:</string>
+    <string name="disk_topView">1.2 平面図:</string>
+    <string name="disk_step2_content">2.取り付けられたハードディスクインターフェイスを内側に向かって、ブラケットのトラックに沿って、矢印の方向に機器に押し込み、奥まで押してから、背面カバーのネジを締め付け、取り付けを完了します。</string>
+    <string name="disk_step3_content">3. 背面カバーを開き、ツールを2つのハードディスクの間に挿入し、一端を引っ掛けて、取り外しを完了します。</string>
+
+
+    <string name="disk_format_init_title">2 ハードディスクのフォーマット化/初期化設置ステップ</string>
+    <string name="disk_init_two_ways">ハードディスクののフォーマット化/初期化二つタイプ設置状態：1、エア　マウスのステータス　セッティング 2、エア　マウス無しステータス　セッティング\nご注意：エア　マウス状態なら更に便利</string>
+    <string name="disk_tv_init_hint">ご提示:\n\n
+1、初回目の新しいハードディスクをパソコンと接続する時、ハードディスク内の情報を読むことはできません。フォーマットされていないか初期化されていないかでのメッセージが表示されます。ハードディスクをフォーマット/初期化してから、正常に読み取りと使用ができる様になります。\n\n
+2、アンドロイドシステムでは一部のブランドのハードディスクはフォーマット/初期化できぜ、再びWindowsシステムでフォーマット/初期化を完了してからご利用ください。\n\n
+3、ハードディスクをパーティションするが必要である場合、Windowsシステムでパーティションを完了してからご利用してください。</string>
+
+    <string name="disk_airmouse_setting_title">2.1 エア　マウス状態の設置ステップ</string>
+    <string name="disk_airmouse_remarks">注：*****USBドライブ、*で該当ハードディスク名を代表する</string>
+    <string name="disk_airmouse_step1_content">2.1.1 リモコンにあるエア　マウスボタンを押下で、画面トップにあるドロップダウンウィンドウを表示させ、「タップクリックで　フォーマット化/初期化をさせ」のボタンをタップクリック</string>
+    <string name="disk_airmouse_step2_content">2.1.2 「ポータブルストレージ」をタップクリックする</string>
+    <string name="disk_airmouse_step3_content">2.1.3 画面に「このUSBストリージをフォーマット化/初期化しますか？」ポップアップが出現され、「このUSBストリージをフォーマット化/初期化する」をタップクリックする</string>
+    <string name="disk_airmouse_step4_content">2.1.4 只今フォーマット化/初期化中のポップアップが出てきたら、そのウインドウを閉じずに維持する</string>
+    <string name="disk_airmouse_step5_content">2.1.5 「あなたのUSBストリージをご利用できます」というポップアップが出てきたら、ハードディスクのフォーマット化/初期化手続きは完了</string>
+
+    <string name="disk_no_airmouse_setting_title">2.2 エア　マウス　無し状態設置ステップ</string>
+    <string name="disk_no_airmouse_step1_content">2.2.1 「設置」画面に遷移</string>
+    <string name="disk_no_airmouse_step2_content">2.2.2 「ストリージ」をタップタップクリックする</string>
+    <string name="disk_no_airmouse_step3_content">2.2.3 「******USBストリージは未フォーマット化/未初期化です」をタップクリックする</string>
+    <string name="disk_no_airmouse_step4_content">2.2.4 「このUSBストリージは未フォーマット化/未初期化です」のポップアップが出て、「設置」をタップクリックする</string>
+    <string name="disk_no_airmouse_step5_content">2.2.5 以下のステップはエア　マウス状態設置ステップ2.1.2~2.1.5と一緒です。</string>
+    <string name="disk_no_airmouse_step5_list_content">2.1.2、「ポータブルストレージ」をタップクリックする\n\n2.1.3、画面に「このUSBストリージをフォーマット化/初期化しますか？」ポップアップが出現され、「このUSBストリージをフォーマット化/初期化する」をタップクリックする\n\n2.1.4、只今フォーマット化/初期化中のポップアップが出てきたら、そのウインドウを閉じずに維持する\n\n2.1.5、「あなたのUSBストリージをご利用できます」というポップアップが出てきたら、ハードディスクのフォーマット化/初期化手続きは完了\n</string>
+    <string name="disk_no_airmouse_step6_content">ご提示：フォーマット/初期化済のハードディスクの表示：ハードディスクの使用状態と容量の情報</string>
+
+    <string name="disk_safe_quit_title">3 ハードディスク安全終了手順：</string>
+    <string name="disk_safe_quit_content">1、ハードドライブを取り外す前に、まず「設定」>「デバイス設定」>「ストレージスペース」>「ストレージデバイス」>「イジェクト」を選択してください。ストレージデバイスに「安全にイジェクトします」と表示されたら、ハードドライブを抜け出します。</string>
+    <string name="disk_safe_quit_content_warning">ヒント：ホットスワップしないでください！</string>
+
+    <string name="audio_output">音声出力</string>
+    <string name="audio_confirm">OK</string>
+    <string name="audio_confirm_rightarrow">\></string>
+
+    <string name="audio_hint">対応オーディオインターフェース</string>
+    <string name="audio_arrow">∨</string>
+    <string name="audio_content_title">オーディオ設定とインターフェースサウンド出力 </string>
+    <string name="audio_one_content_hdmi">HDMI:HDMIポート サウンド出力 </string>
+    <string name="audio_two_content_spdif">SPDIF:SPDIFポート サウンド出力 </string>
+    <string name="audio_three_content_av">AV:AVポート サウンド出力 </string>
+    <string name="audio_four_content_hifi_sound">HiFi SOUND: ヘッドフォンジャック、RCA出力インターフェース、バランス出力インターフェース サウンド出力 </string>
+
+
+    <string name="resolution_title">解像度</string>
+    <string name="resolution_content">設定で、「Droid Settings」を開いて表示メニューに入り、画面解像度を見つけたら、最適な画面解像度の自動切り替えをオンにするだけです。</string>
+    <string name="wallpaper_title">テーマ</string>
+    <string name="wallpaper_content">1.メインインターフェースで、リモコンのメニューボタンを押して、プリセットのテーマの背景画像を選択します. \n 2.設定-表示-壁紙、写真に使用する壁紙を選択</string>
+    <string name="favorate_title">デスクトップガジェットを追加する</string>
+    <string name="favorate_content">画面の右上にある空白ページの「+/-」記号をクリックして、デスクトップにお気に入りのアプリを追加します。</string>
+    <string name="sleep_title">寝る</string>
+    <string name="sleep_content">「設定」-「ディスプレイ」-「休止状態」から自分のスリープ時間を設定します。設定が成功すると、ボックスは設定時間内にスリープモードに入ります。 スリープモードをオフにする必要がある場合は、[設定]-[システム]-[デバイスについて]からバージョン番号を見つけ、このオプションを左クリックして開発者オプションを5回以上開く必要があります。 開発者オプションを1回クリックすると、「システム」インターフェイスに戻り、システムインターフェイスに「開発者オプション」が表示されます。開発者オプションをオンにすると、「ロック画面なし」から直接画面スリープモードをオフにできます。</string>
+    <string name="font_title">フォントサイズ</string>
+    <string name="font_content">フォントサイズは、[設定]-[表示]-[フォントサイズ]の後にプログレスバーの小さなドットにドラッグすることで調整できます。</string>
+    <string name="language_title">言語</string>
+    <string name="language_content">[設定]をクリックし、設定で[デバイス設定]を見つけ、このオプションをクリックして[言語]オプションを見つけます。言語オプションで言語を変更できます。</string>
+    <string name="uninstall_title">ソフトウェアをアンインストールする</string>
+    <string name="uninstall_content">ソフトウェアをアンインストールする必要がある場合は、リモコンの矢印キーを使用してソフトウェアを選択し、「OK」キーを押したまま、「アンインストール」を選択します</string>
+
+
+    <string name="help_language_title">言語は変更できません</string>
+    <string name="help_language_content">オンにすると、テーマの言語が韓国語になり、言語の選択が無効になります。 HDMI CEC機能の言語切り替え機能をOFFにしてから、再度言語切り替えを行ってください。</string>
+    <string name="help_powerkey_title">電源ボタンのカスタマイズを変更する方法</string>
+    <string name="help_powerkey_content">設定-ドロイド設定、電源ボタン定義を開き、電源ボタンを設定する機能を選択します</string>
+    <string name="help_lighthome_title">Lighthomeの障害</string>
+    <string name="help_lighthome_content">場所の問題が認識されない：場所は手動で入力できます。クラッシュした場合は、最新のファームウェアに更新する必要があります。</string>
+    <string name="help_datetime_title">不正確な時間</string>
+    <string name="help_datetime_content">設定->デバイス設定->時刻と日付->日付と時刻を自動的に決定->ネットワークが提供する時刻を使用</string>
+    <string name="help_ota_title">HOTAの更新方法</string>
+    <string name="help_ota_content">設定-システム-システム更新、[更新の検出]をクリックして新しいOTAプッシュアップグレードがあるかどうかを確認するか、右上隅をクリックしてローカルアップグレードを選択します</string>
+    <string name="help_firemare_title">新しいファームウェアをインストールする方法 </string>
+    <string name="help_firemare_usb_content">USBケーブルブラシチュートリアル：ハードウェアの準備が必要：コンピューター、USBケーブル</string>
+    <string name="help_firemare_usb_1">1.ウィザードの指示に従ってインストールし、ステップバイステップで完了すると、アイコンが表示されます.</string>
+    <string name="help_firemare_usb_2">2.インストールパッケージをダウンロードし、簡単にアクセスできるようにデスクトップに保存します。</string>
+    <string name="help_firemare_usb_3">3.管理者として実行するには、管理者として実行を右クリックします</string>
+    <string name="help_firemare_usb_4">4.ポップアップブラシインターフェース</string>
+    <string name="help_firemare_usb_5">5.左上隅のファイルをクリックし、イメージのインポートを選択します</string>
+    <string name="help_firemare_usb_6">6.ファームウェアをロードし、イメージのインポートをクリックして入力し、ダウンロードしたUSBファームウェアの場所を見つけてクリックして開きます</string>
+    <string name="help_firemare_usb_7">7.インターフェースをポップアップし、インターフェースが消えるまで待ちます。つまり、ブラシパッケージが完全にロードされます。スタートをクリック</string>
+    <string name="help_firemare_usb_8">8.オス-オスUSB端をコンピューターのUSBポートに差し込み、電源アダプターをソケットに差し込み、次に電源アダプターとオス-オスUSBポートをGT-Kingの対応するポートに差し込みます（注：GT-Kingポートは同時に接続する必要があります）そうしないと、ファームウェアを正常に読み取ることができません。</string>
+    <string name="help_firemare_usb_9">9.読み込みインターフェイスが表示されるのを待っています。</string>
+    <string name="help_firemare_usb_10">10. 100％をロードし、USBケーブルと電源ケーブルをボックスから抜き、[停止]をクリックし、ツールを閉じて、ブラシを終了します。</string>
+    <string name="help_firemare_sd_content">SDカードブラシチュートリアルブラシハードウェアの準備が必要：SDカード</string>
+    <string name="help_firemare_sd_1">1.ダウンロードしたSDカードフラッシャーファームウェアをSDカードのルートディレクトリにコピーします（SDカードの形式はFAT32である必要があります） </string>
+    <string name="help_firemare_sd_2">2. SDカードをSDカードスロット位置に挿入し、HDMIケーブルを差し込み、モニターの電源を入れ、電源を差し込み、電源を入れます。</string>
+    <string name="help_firemare_sd_3">3.ホームページに移動し、アイコンをクリックしてアプリケーションページに入ります</string>
+    <string name="help_firemare_sd_4">4. [更新してバックアップ]をクリックして開きます</string>
+    <string name="help_firemare_sd_5">5.データのワイプとメディアのワイプを確認し、選択をクリックします</string>
+    <string name="help_firemare_sd_6">6.SDカードブラシパッケージをポップアップし、クリックして選択します.</string>
+    <string name="help_firemare_sd_7">7.次のダイアログボックスが表示されたら、[更新]をクリックしてアップグレードを開始します。</string>
+    <string name="help_firemare_sd_8">8.アップグレードが完了するのを待ちます.</string>
+
+    <string name="controller_b1_info1">これは、内蔵の6軸ジャイロセンサーと高忠実度音声入力を備えたワイヤレスフライマウスです。従来のリモコンマウス機能は、Androidプラットフォームで実装することができます。</string>
+    <string name="controller_b1_info2">プラグアンドプレイマイクロレシーバー、コンピュータ、プロジェクター、テレビセットトップボックス、HTPCに適しています。</string>
+    <string name="controller_b1_info3">これは、コンピュータ、テレビ、投影、およびその他のエンターテイメントデバイスから完全に解放することができ、ちょうどあなたの手首を振る必要があり、あなたの手首の向きは、画面上のカーソルに瞬時に変換されます。</string>
+    <string name="controller_b2_info1">快適で便利な、完全に従来のマウスは、参照操作または赤外線リモコンのキー操作のための静止デスクトップの必要性の欠点を回避し、あなたがコンピュータ、テレビ、リラックスしたレジャー、完全にPCやテレビを「制御」するために横たわることができます</string>
+    <string name="controller_b2_info2">使用方法：</string>
+    <string name="controller_b2_info3">操作対象のデバイスにはBluetoothと赤外線受信機が必要で、Bluetoothが接続されていない場合、リモコンは赤外線で関連するキー値を送信し、Bluetoothを接続した後、Bluetooth経由でキー値を送信します。Bluetooth が接続されていない場合、フライ マウスと音声機能は使用されません。 </string>
+    <string name="controller_b2_info4">1. Bluetooth /赤外線音声フライングマウスリモコンペアリング方法</string>
+    <string name="controller_b2_info5">初めて使用すると、リモコンのキー(ペイジキーとボリュームキー)を5秒間押したままペアリングモードに入り、ペアリングモードに入るとリモコンのライトが素早く点滅し、操作対象のデバイスでリモコン名(Beelink_AirW)を検索でき、ペアリングが接続されるとすぐに使用できます。 マウスを振ると、カーソルが画面上を移動し、ペアリングが成功します。</string>
+
+    <string name="controller_b3_info1">2. 2.4Gワイヤレスボイスフライングマウスリモコンペアリング方法</string>
+    <string name="controller_b3_info2">USBレシーバーを操作対象デバイスのUSBポートに差し込みます。初めて使用する場合、USBレシーバードライバーが成功にインストールされるまで、20〜60秒待ちます。マウスを振ると、カーソルが画面で移動し、ペアリングが成功したことを意味します。</string>
+    <string name="controller_b3_info3">空中マウスのマウス速度はレベル3調節を可能にする</string>
+    <string name="controller_b3_info4">1. Bluetooth /赤外線音声フライングマウスリモコン調整方法</string>
+    <string name="controller_b3_info5">マウスの速度が遅い速度から速くなる: "0K" と "page" を 3 秒間押すと、カーソルが速くなります。</string>
+    <string name="controller_b3_info6">マウスの速度が高速から低速に変わります: 「OK」と「page-」を同時に押すと、カーソルの速度が遅くなります。</string>
+
+    <string name="controller_b4_info1">2. 2.4Gワイヤレス音声フライングマウスリモコン調整方法</string>
+    <string name="controller_b4_info2">マウスの速度が低速から高速に変わります: 「OK」と「音量+」を同時に押すと、カーソルの速度が速くなります。</string>
+    <string name="controller_b4_info3">マウスの速度が高速から低速に変わります: 「OK」と「音量-」を同時に押すと、カーソルの速度が遅くなります。</string>
+    <string name="controller_b4_info4">機能ボタン:</string>
+    <string name="controller_b4_info5">ホーム: メイン インターフェイスに戻る</string>
+    <string name="controller_b4_info6">戻る: 1 つ上の画面に戻る</string>
+    <string name="controller_b4_info7">oK: アクションを確認するか、カーソルを挿入します。</string>
+    <string name="controller_b4_info8">マウス: ワイヤレス マウスをロックし、もう一度押してマウスをオンにします。</string>
+
+    <string name="controller_b5_info1">音声機能:</string>
+    <string name="controller_b5_info2">マイクボタンを押したままにして、音声チャンネルを開きます。 マイクボタンを持ち上げて、音声チャンネルをオフにします。</string>
+    <string name="controller_b5_info3">低電力のヒント:</string>
+    <string name="controller_b5_info4">製品のAAAバッテリ残量が少なくなると、, LEDライトのスローフラッシュリマインダー(使用中にキーを押して離した後、バッテリ残量が少なくなると、ledライトは1秒間点滅し、5回点滅はバッテリーが低すぎることを示し、バッテリーを交換する必要があります)、新しいバッテリーを交換する必要があります。</string>
+    <string name="controller_b5_info5">センサーキャリブレーション：</string>
+    <string name="controller_b5_info6">1.Bluetooth /赤外線音声フライングマウスリモートコントロールキャリブレーション方法</string>
+    <string name="controller_b5_info7">フライマウス機能の初回使用は、キャリブレーションが必要です:同時に、フライマウスオープンキーとmenuキー3s以上を押すと、インジケータは、フラッシュ状態に入り、この時点で、マウスキャリブレーションモードに入り、デスクトップにリモートコントロールを平らにし、インジケータが点滅しなくなるまで、マウスキャリブレーションを待つ、キャリブレーションが完了しました。</string>
+
+    <string name="controller_b6_info1">2. 2.4Gワイヤレス音声フライングマウスリモコン調整方法</string>
+    <string name="controller_b6_info2">使用中、電圧と温度の変化がカーソルのドリフトを引き起こした場合、 機器をデスクトップに平らに置いて、静止にしてください。 製品がスリープ状態になった後、再びウェイクアップすると、校正を完了します。</string>
+    <string name="controller_b6_info3">製品仕様:</string>
+    <string name="controller_b6_info4">転送方法:ブルートゥースと赤外線 \/ 2.4Gおよび赤外線</string>
+    <string name="controller_b6_info5">センサー: 6軸ジャイロスコープ</string>
+    <string name="controller_b6_info6">キー数: 17</string>
+    <string name="controller_b6_info7">伝送距離:10M</string>
+    <string name="controller_b6_info8">バッテリータイプ: AAA*2</string>
+    <string name="controller_b6_info9">製品材料:ABSプラスチックシリコーンキー</string>
+    <string name="controller_b6_info10">プロダクトサイズ: 143*45*29MM</string>
+    <string name="controller_b6_info11">製品重量:50g</string>
+    <string name="controller_b6_info12">注:</string>
+    <string name="controller_b6_info13">1.この製品は、テストモードを持って、非プロのメンテナンス担当者は、使用を禁止しています!</string>
+    <string name="controller_b6_info14">2. 通常の使用では、ライトが点灯している場合、またはその他の異常が発生した場合は、再インストールして復元できます。</string>
+</resources>

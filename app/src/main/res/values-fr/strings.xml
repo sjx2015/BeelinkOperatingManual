@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Manuel</string>
+	<string name="boot">Démarrage</string>
+	<string name="network">Transmission sans fil</string>
+	<string name="voice">Télécommande voix</string>
+	<string name="basic">Présentation de base</string>
+	<string name="playback">Réglage du volume</string>
+	<string name="harddisk">Disque Dur</string>
+	<string name="harddisk_gsking_x">Disque Dur\n(GS-King X)</string>
+	<string name="personalization">Personnalisation</string>
+	<string name="commonProblems">Problèmes communs</string>
+	<string name="shotcut">Réglages rapides</string>
+	<string name="content_title">Beelink TV BOITE</string>
+	<string name="gtking_content"></string>
+	<string name="gtking_pro_content"></string>
+	<string name="bootup_title">Démarrage</string>
+	<string name="bootup_content">1. Allumer et allumer automatiquement après la mise hors tension \n 2. Lorsque l\'appareil est sous tension, pointez la télécommande vers le boîtier du téléviseur et appuyez sur le bouton d\'alimentation de la télécommande pour l\'allumer.</string>
+	<string name="shutdown_title">Fermer</string>
+	<string name="shutdown_content">1. Lorsque vous allumez, pointez la télécommande vers le boîtier du téléviseur et appuyez sur le bouton d\'alimentation de la télécommande pour l\'éteindre.  \n2. Lors de la mise sous tension, utilisez le curseur de la souris volante pour cliquer sur le bouton d\'alimentation dans le coin inférieur gauche de l\'interface principale pour arrêter.</string>
+	<string name="controller_pair_title">appariement de contrôle à distance</string>
+	<string name="controller_pair_content">En même temps, appuyez sur le bouton « retour » et « ok » de la télécommande, le témoin lumineux clignote, et au bout de 4 secondes, le jumelage de la télécommande est terminée.</string>
+	<string name="controller_voice_title">Procédé d\'entrée vocale</string>
+	<string name="controller_voice_content">Appuyez et maintenez enfoncé le bouton de la voix, le voyant est vert clignotant. </string>
+	<string name="controller_mouse_title">Comment ouvrir et fermer la fonction de la souris volante</string>
+	<string name="controller_mouse_content">Appuyez sur le bouton de la souris pour ouvrir / fermer la fonction de la souris volant</string>
+	<string name="bluetooth_pair_title">appariement Bluetooth</string>
+	<string name="bluetooth_pair_content">Après avoir allumé le Bluetooth dans les paramètres, après avoir allumé l\'interrupteur Bluetooth, la boîte détecte automatiquement les périphériques Bluetooth connectés à proximité, et le clic droit de la souris reconnaîtra automatiquement la connexion ..</string>
+	<string name="wifi_connect_title">Connexion Wifi</string>
+	<string name="wifi_connect_content">Dans le réseau et Internet dans les paramètres, activez le WLAN, cliquez sur WLAN et sélectionnez le WIFI auquel vous souhaitez vous connecter</string>
+	<string name="hotspot_title">Un hotspot portable</string>
+	<string name="hotspot_content">Lorsqu\'il est connecté au réseau Ethernet, ouvrez le « Réseau et Internet » dans les paramètres pour entrer dans la fonction portable hotspot, vous pouvez ouvrir le point d\'accès mobile.</string>
+	<string name="sound_title">Du son</string>
+	<string name="sound_content">Utilisez VOL + et VOL- sur la télécommande pour régler le volume, ou entrez Paramètres-Son pour régler le volume du média et le volume de notification</string>
+
+	<string name="disk_install_remove">Installation et démontage du disque dur</string>
+	<string name="disk_step1_content">1.Utilisez les vis pour verrouiller solidement le support du disque dur dans les deux côtés du disque dur.</string>
+	<string name="disk_sideView">1.1 Vue latérale:</string>
+	<string name="disk_topView">1.2 Vue de dessus:</string>
+	<string name="disk_step2_content">2.Poussez l\'interface du disque dur installée donnant sur l\'intérieur dans la machine selon le sens de la flèche le long du rail du support, poussez jusqu\'au fond, puis verrouillez la vis du couvercle arrière, l\'installation est terminée.</string>
+	<string name="disk_step3_content">3.Ouvrez le couvercle arrière, insérez l\'outil au milieu des deux disques durs, accrochez une extrémité du disque dur pour le retirer, le démontage est terminé.</string>
+
+
+	<string name="disk_format_init_title">2 Étapes de formatage du disque dur / réglage de l\'initialisation </string>
+	<string name="disk_init_two_ways">Format du disque dur / initialisation deux types d\'état de réglage: 1、Réglage de l\'état de la souris 2、Pas de réglage de l\'état de la souris aérienne.\nAstuces : le réglage de l\'état de la souris est plus pratique.</string>
+	<string name="disk_tv_init_hint">Rappelez :\n\n
+1、Lors de la première connexion à un nouveau disque dur, les informations du disque dur ne peuvent être lues, s\'affichent sans être formatées ou non initialisées, il faut formater/initialiser les paramètres du disque dur pour pouvoir les lire et les utiliser correctement.\n\n
+2、Certains disques durs de marque sous Android ne peuvent pas être formatés / initialisés. Veuillez compléter le formatage / l\'initialisation sur le système Windows puis l\'utiliser.\n\n
+3、Si vous avez besoin de partitionner le disque dur, veuillez compléter la partition sur le système Windows puis l\'utiliser. </string>
+
+	<string name="disk_airmouse_setting_title">2.1 Étape de réglage de l\'état de la souris aérienne</string>
+	<string name="disk_airmouse_remarks">Note:***** Lecteur USB, * représente le nom du disque dur.</string>
+	<string name="disk_airmouse_step1_content">2.1.1 Appuyez sur le bouton aérien de la télécommande, sortez la fenêtre déroulante supérieure, cliquez sur «Cliquez pour formater ou initialiser».</string>
+	<string name="disk_airmouse_step2_content">2.1.2 Cliquez sur «STOCKAGE PORTABLE».</string>
+	<string name="disk_airmouse_step3_content">2.1.3 Faites apparaître «Formater ou initialiser cette clé USB ?»,Cliquez sur «FORMATER OU INITIALISER LA LIVRE USB»</string>
+	<string name="disk_airmouse_step4_content">2.1.4 Veuillez ne pas supprimer la fenêtre apparue de la progression du formatage / de l\'initialisation du stockage USB.</string>
+	<string name="disk_airmouse_step5_content">2.1.5 Faites apparaître «Votre clé USB est prête à l\'emploi», format du disque dur /Initialisation terminée. </string>
+
+	<string name="disk_no_airmouse_setting_title">2.2 Pas d\'étape de réglage de l\'état de la souris aérienne</string>
+	<string name="disk_no_airmouse_step1_content">2.2.1 Entrez dans les «Paramètres».</string>
+	<string name="disk_no_airmouse_step2_content">2.2.2 Cliqyez «Storage»</string>
+	<string name="disk_no_airmouse_step3_content">2.2.3 Cliquez sur «******Lecteur USB non formaté ou non initialisé».</string>
+	<string name="disk_no_airmouse_step4_content">2.2.4  Après avoir fait apparaître «Cette ****** clé USB non formatée ou non initialisée», cliquez sur «Configurer».</string>
+	<string name="disk_no_airmouse_step5_content">2.2.5 Les étapes suivantes sont identiques à l\'étape 2.1.2 ~ 2.1.5 du réglage de l\'état de la souris aérienne</string>
+	<string name="disk_no_airmouse_step5_list_content">2.1.2、Cliquez sur «STOCKAGE PORTABLE».\n\n2.1.3、Faites apparaître «Formater ou initialiser cette clé USB ?»,Cliquez sur «FORMATER OU INITIALISER LA LIVRE USB»\n\n2.1.4、Veuillez ne pas supprimer la fenêtre apparue de la progression du formatage / de l\'initialisation du stockage USB.\n\n2.1.5、Faites apparaître «Votre clé USB est prête à l\'emploi», format du disque dur /Initialisation terminée. \n</string>
+	<string name="disk_no_airmouse_step6_content">Note: Le disque dur qui a été formaté/initialisé affichera l\'état d\'utilisation et la capacité du disque dur.</string>
+
+	<string name="disk_safe_quit_title">3 Procédure de sortie sécurisée du disque dur:</string>
+	<string name="disk_safe_quit_content">1. Avant de retirer le disque dur, sélectionnez d\'abord Paramètres>Préférences de dispositif>Stockage>Dispositif de stockage>Éjecter, le dispositif de stockage affiche une éjection de sécurité, puis retirez le disque dur.</string>
+	<string name="disk_safe_quit_content_warning">Conseil : Veuillez ne pas insérer et tirer à chaud !</string>
+
+	<string name="audio_output">Sortie audio</string>
+	<string name="audio_confirm">OK</string>
+	<string name="audio_confirm_rightarrow">\></string>
+
+	<string name="audio_hint">Interface audio correspondante</string>
+	<string name="audio_arrow">∨</string>
+	<string name="audio_content_title">Paramètres audio et sortie audio de l\'interface </string>
+	<string name="audio_one_content_hdmi">HDMI:Port HDMI Sortie sonore </string>
+	<string name="audio_two_content_spdif">SPDIF:Port SPDIF Sortie sonore </string>
+	<string name="audio_three_content_av">AV:Port AV Sortie sonore </string>
+	<string name="audio_four_content_hifi_sound">HiFi SOUND: Prise de des écouteurs、Interface de sortie RCA、Interface de sortie équilibrée Sortie sonore </string>
+
+
+	<string name="resolution_title">Résolution</string>
+	<string name="resolution_content">Dans les paramètres, trouver « Paramètres Droid » pour ouvrir et entrer dans le menu d\'affichage. </string>
+	<string name="wallpaper_title">Fond d\'écran</string>
+	<string name="wallpaper_content">1. Sur l\'interface principale, appuyez sur le bouton de menu de la télécommande pour sélectionner une image de fond de thème prédéfini. \n 2. Paramètres-Affichage-Fond d\'écran, choisissez le fond d\'écran que vous voulez sur la photo</string>
+	<string name="favorate_title">applications favorites</string>
+	<string name="favorate_content">Vous pouvez ajouter vos applications favorites sur votre bureau en cliquant sur le symbole « +/- » dans la page blanche en haut à droite de l\'écran.</string>
+	<string name="sleep_title">Sommeil</string>
+	<string name="sleep_content">Réglez votre temps de sommeil de « Paramètres » - « Affichage » - « sommeil ». </string>
+	<string name="font_title">Taille de police</string>
+	<string name="font_content">La taille de la police peut être ajustée en faisant glisser vers un petit point sur la barre de progression après « Paramètres » - « Affichage » - « Taille de police ».</string>
+	<string name="language_title">La langue</string>
+	<string name="language_content">Cliquez sur Paramètres, trouver « Préférences du périphérique » dans les paramètres et cliquez sur cette option pour trouver l\'option « Langue ». </string>
+	<string name="uninstall_title">Désinstallez le logiciel</string>
+	<string name="uninstall_content">Désinstaller l\'application: Lorsque vous devez désinstaller le logiciel, utilisez les touches fléchées de la télécommande pour sélectionner le logiciel, appuyez et maintenez la touche \"OK\" et sélectionnez Désinstaller</string>
+	<string name="help_language_title">échec de modification Langue</string>
+	<string name="help_language_content">Après la mise sous tension, la langue du thème devient coréenne et la sélection de la langue n\'est pas valide. Veuillez désactiver la fonction de changement de langue dans la fonction HDMI CEC, puis changez de nouveau la langue.</string>
+	<string name="help_powerkey_title">Comment modifier la personnalisation du bouton d\'alimentation</string>
+	<string name="help_powerkey_content">Paramètres-Paramètres Droid, ouvrez la définition du bouton d\'alimentation, sélectionnez la fonction que vous souhaitez définir le bouton d\'alimentation</string>
+	<string name="help_lighthome_title">échec Lighthome</string>
+	<string name="help_lighthome_content">échec Lighthome.</string>
+	<string name="help_datetime_title">temps Box est inexact</string>
+	<string name="help_datetime_content">Paramètres -> Préférences du périphérique -> Heure et date -> déterminer automatiquement la date et l\'heure -> Utiliser le temps fourni par le réseau.</string>
+	<string name="help_ota_title">Comment faire une mise à jour OTA</string>
+	<string name="help_ota_content">Paramètres-Système-Mise à jour système, cliquez sur Détecter la mise à jour pour voir s\'il y a une nouvelle mise à niveau push OTA ou cliquez sur le coin supérieur droit pour sélectionner la mise à niveau locale</string>
+	<string name="help_firemare_title">Comment installer un nouveau firmware</string>
+	<string name="help_firemare_usb_content">tutoriel brosse câble USB: Vous avez besoin de préparer le matériel: ordinateur, un câble USB.</string>
+	<string name="help_firemare_usb_1">1.Télécharger l\'outil de gravure, suivez les instructions de l\'assistant pour installer et complète, l\'icône doit être apparaît sur votre bureau</string>
+	<string name="help_firemare_usb_2">2.Téléchargez le firmware et l\'enregistrer sur votre bureau pour un accès facile</string>
+	<string name="help_firemare_usb_3">3.Right cliquez sur « Exécuter en tant qu\'administrateur »</string>
+	<string name="help_firemare_usb_4">4.Saisissez l\'interface de l\'outil de brossage.</string>
+	<string name="help_firemare_usb_5">5.Click fichier dans le coin supérieur gauche et sélectionnez Importer une image.</string>
+	<string name="help_firemare_usb_6">6.Load le firmware, cliquez sur Importer une image pour entrer, trouver l\'emplacement du firmware USB téléchargé, sélectionnez et ouvrez</string>
+	<string name="help_firemare_usb_7">7.Après la vérification de l\'image disparaît, le paquet de brosse est chargée complètement, puis cliquez sur Démarrer.</string>
+	<string name="help_firemare_usb_8">8.Plug mâle USB Type A à extrémités mâles dans le port USB de l\'ordinateur, brancher l\'adaptateur dans la prise, et insérer l\'adaptateur d\'alimentation et le mâle au port USB mâle dans le port correspondant du GT-Roi au </string>
+	<string name="help_firemare_usb_9">9.Waiting pour l\'interface de chargement apparaisse.</string>
+	<string name="help_firemare_usb_10">10.Après chargement, débranchez le câble USB et le câble d\'alimentation de la boîte, cliquez sur Arrêter, fermer l\'outil, et terminer la brosse .</string>
+	<string name="help_firemare_sd_content">brosse carte SD tutoriel nécessité de préparer le matériel brosse: carte SD.</string>
+	<string name="help_firemare_sd_1">1.Copie le firmware déjà chargé de flasher la carte SD dans le répertoire racine de la carte SD (le format de carte SD doit être FAT32).</string>
+	<string name="help_firemare_sd_2">2.Insérez la carte SD dans la fente pour carte SD, prise dans le câble HDMI, connecter le moniteur, prise dans la puissance et la mettre sous tension.</string>
+	<string name="help_firemare_sd_3">3.Go à la page d\'accueil, cliquez sur Update icône accéder à la page d\'application</string>
+	<string name="help_firemare_sd_4">4.Click « Mettre à Jour BACKUP » et ouvrez-le.</string>
+	<string name="help_firemare_sd_5">Vérifier le bouton « Wipe données » » et « Wipe Media »(si vous avez besoin de données WAPE), puis cliquez sur « Sélectionner ».</string>
+	<string name="help_firemare_sd_6">6.Sélectionnez le fichier zip que vous téléchargez à partir du PC.</string>
+	<string name="help_firemare_sd_7">7. Cliquez sur le bouton « Mettre à jour » pour lancer la mise à niveau.</string>
+	<string name="help_firemare_sd_8">8.Wait pour la mise à niveau complète.</string>
+
+
+	<string name="controller_b1_info1">Il s\'agit d\'un papillon de nuit sans fil avec un capteur de gyroscope intégré à 6 axes et une entrée vocale haute fidélité.La fonction traditionnelle de souris à télécommande peut être implémentée sur la plate-forme Android.</string>
+	<string name="controller_b1_info2">Microrécepteurs plug-and-play,Convient aux ordinateurs, projecteurs, décodeurs TV, HTPC.</string>
+	<string name="controller_b1_info3">Il peut complètement vous libérer des ordinateurs, téléviseurs, projections et autres dispositifs de divertissement et il suffit de secouer votre poignet, et votre orientation du poignet sera instantanément converti en curseur sur l\'écran.</string>
+	<string name="controller_b2_info1">"Sentez-vous à l\'aise, pratique, éviter complètement le besoin traditionnel de la souris de bureau statique comme une opération de référence ou infrarouge à distance de contrôle clé opération des inconvénients, vous laisser vous allonger pour jouer à l\'ordinateur, la télévision n'est pas fatigué, loisirs détendus, complètement "contrôler" votre ordinateur, TV."</string>
+	<string name="controller_b2_info2">Comment utiliser:</string>
+	<string name="controller_b2_info3">L\'appareil d\'exploitation doit avoir bluetooth et récepteur infrarouge, quand il n\'y a pas de connexion Bluetooth, la télécommande envoie la valeur clé pertinente par infrarouge, se connecte Bluetooth et envoie la valeur clé via Bluetooth. Vous ne pouvez pas utiliser les papillons de nuit et la voix lorsque vous n\'êtes pas connecté à Bluetooth. </string>
+	<string name="controller_b2_info4">1. Méthode d\'appairage de la télécommande de la souris volante Bluetooth / voix infrarouge</string>
+	<string name="controller_b2_info5">"Pour la première fois, tout en maintenant la combinaison de clé sur la télécommande (clé de page et clé de volume) 5 secondes en mode d\'appariement, en mode d\'appariement, la lumière sur la télécommande clignote ravite rapidement, vous pouvez rechercher le nom de télécommande (Beelink_AirW) sur l\'appareil d\'exploitation, l\'appariement peut être utilisé après la connexion.Lorsque vous agitez la souris, le curseur se déplace à travers l'écran, ce qui signifie que l'appariement est un succès."</string>
+
+	<string name="controller_b3_info1">2. Méthode d\'appairage de la télécommande de la souris volante sans fil 2.4G</string>
+	<string name="controller_b3_info2">Insérez le récepteur USB sur le port USB de l\'équipement opéré, pour la première utilisation, attendez 20 à 60 secondes jusqu\'à ce que le pilote du récepteur USB soit installé avec succès. Déplacez la souris, le curseur peut se déplacer sur l\'écran, ce qui signifie que le jumelage est réussi.</string>
+	<string name="controller_b3_info3">La vitesse de la souris aéroportée prend en charge 3 niveaux d\'ajustement</string>
+	<string name="controller_b3_info4">1. Méthode de réglage de la télécommande de la souris volante Bluetooth / voix infrarouge</string>
+	<string name="controller_b3_info5">Vitesse de la souris de lent à rapide: appuyez sur "0K" et "page" pendant trois secondes en même temps, la vitesse du curseur est plus rapide.</string>
+	<string name="controller_b3_info6">Vitesse de la souris de rapide à lente: appuyez sur \"OK\" et \"page-\" pendant trois secondes en même temps, la vitesse du curseur devient plus lente.</string>
+
+	<string name="controller_b4_info1">2. Méthode d\'ajustement de la télécommande de la souris volante sans fil 2.4G</string>
+	<string name="controller_b4_info2">"La vitesse de la souris devient depuis la vitesse lente vers la vitesse rapide:  Appuyez simultanément sur \"0K\" et \"Volume+\", la vitesse du curseur devient la vitesse rapide.  "</string>
+	<string name="controller_b4_info3">La vitesse de la souris devient depuis la vitesse rapide vers la vitesse lente: Appuyez simultanément sur \"OK\" et \"Volume-\", la vitesse du curseur devient la vitesse lente.</string>
+	<string name="controller_b4_info4">Bouton de fonction :</string>
+	<string name="controller_b4_info5">Accueil: Retour à l\'interface principale</string>
+	<string name="controller_b4_info6">Retour à: Retour à l\'écran de niveau précédent</string>
+	<string name="controller_b4_info7">oK: Confirmer l\'action ou insérer le curseur</string>
+	<string name="controller_b4_info8">Souris : Verrouillez la souris sans fil et appuyez sur pour l\'allumer à nouveau.</string>
+
+	<string name="controller_b5_info1">Fonction vocale: </string>
+	<string name="controller_b5_info2">Appuyez et maintenez le bouton du microphone pour ouvrir le canal vocal. Soulevez le bouton du microphone et fermez le canal vocal.</string>
+	<string name="controller_b5_info3">Astuce de faible puissance :</string>
+	<string name="controller_b5_info4">Lorsque la batterie AAA du produit est faible, Le disle à LED (après avoir appuyé sur une clé pendant l\'utilisation, puis relâché, si la batterie est détectée faible, la lumière LED clignote une fois par seconde, flashfive fois pour indiquer que la batterie est trop faible, besoin de remplacer la batterie), à ce moment besoin de remplacer la nouvelle batterie.</string>
+	<string name="controller_b5_info5">Étalonnage du capteur :</string>
+	<string name="controller_b5_info6">1. méthode d\'étalonnage de la télécommande de la souris volante Bluetooth / voix infrarouge</string>
+	<string name="controller_b5_info7">"La première utilisation de la fonction papillon de nuit, doivent être calibrés: en même temps appuyez sur la clé ouverte de papillon de nuit et la clé de menu 3s ci-dessus, la lumière dans l\'état de flash, à ce moment dans le mode d'étalonnage de la teigne, la télécommande stationnaire à plat sur le bureau, en attendant l'étalonnage de la teigne, jusqu'à ce que la lumière ne clignote plus, l'étalonnage est terminée."</string>
+
+	<string name="controller_b6_info1">2. Méthode d\'étalonnage de la télécommande de la souris volante sans fil 2.4G</string>
+	<string name="controller_b6_info2">Pendant le processus d\'utilisation, pour la dérive du curseur à cause des changements de tension et de température, veuillez placer horizontalement cette machine sur le bureau et la maintenir immobile, après la fin de la mise en veille, le produit est réveillé pour terminer le calibrage.</string>
+	<string name="controller_b6_info3">Spécifications du produit :</string>
+	<string name="controller_b6_info4">Transmission: Bluetooth et Infrarouge \/ 2.4G Sans fil et Infrarouge</string>
+	<string name="controller_b6_info5">Capteur : gyroscope à 6 axes</string>
+	<string name="controller_b6_info6">Nombre de clés: 17</string>
+	<string name="controller_b6_info7">Distance: 10M</string>
+	<string name="controller_b6_info8">Type de batterie: AAAx2</string>
+	<string name="controller_b6_info9">Matériel de produit : bouton en silicone en plastique d\'ABS</string>
+	<string name="controller_b6_info10">Taille: 143 x 45 x 29MM</string>
+	<string name="controller_b6_info11">Poids: 50g</string>
+	<string name="controller_b6_info12">Attention:</string>
+	<string name="controller_b6_info13">1. Ce produit a un mode de test, personnel de maintenance non-professionnel interdit!</string>
+	<string name="controller_b6_info14">2. Dans un état normal d\'utilisation, si la lumière est allumée ou si d\'autres conditions anormales, la réinstallation du sol électrique peut être restaurée.</string>
+</resources>

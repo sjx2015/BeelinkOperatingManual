@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    android:padding="@dimen/fragment_content_padding"
+    android:orientation="vertical">
+
+    <include layout="@layout/content_title" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/button_background"
+            android:gravity="center_horizontal"
+            android:focusable="true"
+            android:padding="@dimen/fragment_content_padding"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fragment_card_margin"
+                app:cardCornerRadius="@dimen/fragment_card_radius"
+                app:cardElevation="@dimen/fragment_card_elevation">
+
+                <LinearLayout
+                    android:id="@+id/rll_one"
+                    android:layout_width="355px"
+                    android:layout_height="300px"
+                    android:layout_marginStart="40px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:gravity="center"
+                    android:nextFocusRight="@id/rll_two"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/bootup_title"
+                        android:textColor="@android:color/holo_green_dark"
+                        android:textSize="@dimen/fragment_card_item_title" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/bootup_content"
+                        android:textColor="@android:color/primary_text_light"
+                        android:textSize="@dimen/fragment_card_item_content" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fragment_card_margin"
+                app:cardCornerRadius="@dimen/fragment_card_radius"
+                app:cardElevation="@dimen/fragment_card_elevation">
+
+                <RelativeLayout
+                    android:id="@+id/rll_two"
+                    android:layout_width="750px"
+                    android:layout_height="300px"
+                    android:layout_marginStart="40px"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:gravity="center_vertical">
+
+                    <ImageView
+                        android:layout_width="250px"
+                        android:layout_height="250px"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="50px"
+                        android:scaleType="centerCrop"
+                        android:src="@mipmap/bootup_powerkey" />
+
+                    <LinearLayout
+                        android:layout_width="300dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/shutdown_title"
+                            android:textColor="@android:color/holo_green_dark"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/shutdown_content"
+                            android:textColor="@android:color/primary_text_light"
+                            android:textSize="14sp" />
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+</LinearLayout>
